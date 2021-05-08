@@ -1,0 +1,59 @@
+Oczywiście projekt ma nazwę bazalekow_project, a aplikacja bazalekow
+
+________________
+CREATE A PROJECT
+________________
+
+1) Create a folder for the project, go on the terminal to that folder and execute
+    python -m venv env
+  to create a virtual environment for the app (virtual environment so we keep in that environment only the files for our project)
+
+If using Visual Studio Code then do 2.0 an 2.1
+
+2.0) Open VSC and open that folder in File -> Open Folder. Then View -> Command Palette -> Python: Select interpreter -> "The environment created on step 1 something like .\env"
+2.1) Then Terminal -> New terminal and check that (env) appears in the command line on VSC. Then go to step 3) and execute remaining commands on VSC console
+
+If not using Visual Studio Code then do 2.2
+
+2.2) Activate the venv by running the file env\Scripts\activate
+(if it does not work then execute: source env\Scripts\activate). When active the shell should be prepended by (env). Then go to step 3)
+(We can deactivate the venv by typing deactivate)
+
+3) Update pip on the venv: On the folder project in the terminal execute the command
+    python -m pip install --upgrade pip
+4) Install Django in the venv
+    python -m pip install django
+5) Execute the following to create the project, in this case I named it "first_project", don't forget the dot at the end
+    django-admin startproject first_project .
+   a folder named 'first_project' along with the file migrate.py appeared on the folder
+6) Execute the following to create an empty DB
+    python manage.py migrate
+   a file named 'db.sqlite3' appeared on the folder
+7) Verify the installation by executing
+    python manage.py runserver
+   and opening the page 127.0.0.1:8000 or localhost:8000 on a browser. A django page saying "The install worked successfully! Congratulations!" should appear
+
+_____________
+CREATE AN APP
+_____________
+
+Inside your project folder with the venv active type the command
+  python manage.py startapp app_name
+
+_____________________________________________
+Teraz należy podmienić zawartość folderów bazalekow i bazalekow_project na to z githuba
+
+potem odpalić polecenia:
+python manage.py makemigrations
+python manage.py migrate (jakby coś nie działało to z flagą --run-syncdb)
+python manage.py createsuperuser żeby móc widzieć co się dzieje w bazie na localhost:port/admin
+
+python manage.py runserver 80
+
+w przeglądarce:
+localhost/createExample tworzy przykładowych kilka leków. Na stronie admina i tu można zobaczyć ich EAN do wyszukiwarki:
+12345678901234
+01234567890123
+74573540413
+09876543210987
+
