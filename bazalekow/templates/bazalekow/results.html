@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Bazaleków: wynki wyszukiwania</title>
+        {% load static %}
+        <link rel="stylesheet" href="{% static 'bazalekow/css/mainstyle.css' %}">
+    </head>
+    <body>
+        <div> <!-- Lewe menu z listą wskazań refundacyjnych -->
+            <ul>
+                {% if indicators.0.no_ind == True %}
+                    Brak danych na temat wskazań wybranego leku
+                {%else%}
+                    {% for ind in indicators %}
+                        <li><a href="{% url 'resultind' ean=tean indic=ind.id %}">{{ind.name}}</a></li>
+                    {% endfor %}
+                {% endif %}
+            </ul>
+        </div>
+        <div> <!-- Tabela z lekami -->
+            <table>
+                <tr>
+                    <th>Nazwa leku</th>
+                    <th>Postać</th>
+                    <th>Dawka</th>
+                    <th>Substancja czynna</th>
+                    <th>Zawartość opakowania</th>
+                    <th>EAN</th>
+                    <th>Cena</th>
+                    {% if indicators.0.no_ind == False%}
+                        <th>Wskazania refundacyjne</th>
+                    {%endif%}
+                </tr>
+                {% for drug in drugs%}
+                    <tr>
+                        <td>{{drug.name}}</td>
+                        <td>{{drug.form}}</td>
+                        <td>{{drug.dose}}</td>
+                        <td>{{drug.substance}}</td>
+                        <td>{{drug.content}}</td>
+                        <td>{{drug.EAN}}</td>
+                        <td>{{drug.price}}</td>
+                        {% if indicators.0.no_ind == False %}
+                            <td>
+                            {%for ind in drug.indications.all %}
+                                {{ind.name}}; 
+                            {%endfor%}
+                            </td>
+                        {% endif %}
+                    </tr>
+                {% endfor %}
+            </table>
+        </div> 
+    </body>
+</html>
