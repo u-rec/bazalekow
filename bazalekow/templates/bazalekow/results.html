@@ -43,9 +43,13 @@
                         <td>{{drug.price}}</td>
                         {% if indicators.0.no_ind == False %}
                             <td>
-                            {%for ind in drug.indications.all %}
-                                {{ind.name}}; 
-                            {%endfor%}
+                            {%if drug.indications.all.0.no_ind == True%}
+                                We wszystkich zarejestrowanych wskazaniach
+                            {%else%}
+                                {%for ind in drug.indications.all %}
+                                    {{ind.name}}; 
+                                {%endfor%}
+                            {%endif%}
                             </td>
                         {% endif %}
                     </tr>

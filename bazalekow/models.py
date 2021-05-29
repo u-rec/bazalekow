@@ -7,8 +7,8 @@ class Category(models.IntegerChoices):
     B = 2, "B"
     C = 3, "C"
 
-class Indication(models.Model): # do bazy danych należy dodać od razu jako jeden element te które uznaliśmy za identyczne, żeby wyszukiwanie po bazie miało sens
-    name = models.CharField(max_length=100, null=False, blank=True, default="")
+class Indication(models.Model): 
+    name = models.TextField(null=False, blank=True, default="")
     no_ind = models.BooleanField(default=False)        #wszystkie wskazania refundacyjne, pomijamy pole wskazań
 
     class Meta:
@@ -27,7 +27,7 @@ class Drug(models.Model):
     EAN = models.CharField(max_length=14, null=False, blank=False)     # kod EAN
     name = models.CharField(max_length=40, null=False, blank=False)    # nazwa
     form = models.CharField(max_length=30, null=True)       # postać leku 
-    dose = models.IntegerField()    # dawka w miligramach (płyny: mg/g)
+    dose = models.CharField(max_length=40, null=True)    # dawka w miligramach (płyny: mg/g)
     substance = models.ForeignKey(Substance, on_delete=models.CASCADE)
     content = models.CharField(max_length=60, null=True)    # zawartość opakowania
     category = models.IntegerField(choices=Category.choices)            # w którym arkuszu jest ten lek

@@ -12,7 +12,7 @@ def home(request):
 
 def sresult(request, ean):
     drug = Drug.objects.get(EAN=ean)
-    drugs = Drug.objects.filter(substance=drug.substance)
+    drugs = Drug.objects.filter(substance=drug.substance).filter(dose=drug.dose).filter(form=drug.form)
     print(drugs)
     indicators = drug.indications.all()
     #indicators = Indication.objects.none()
