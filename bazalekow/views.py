@@ -1,6 +1,7 @@
 from django.shortcuts import render, get_object_or_404, redirect
 from .models import *
 from .createExampleData import createExample
+from .skrypt_import_1 import *
 
 # Create your views here.
 
@@ -22,6 +23,12 @@ def sresult(request, ean):
 
 def example(request):
     createExample()
+    return redirect('homepage')
+
+def importbazy(request):
+    importbazysubstancje()
+    importbazywskazania()
+    importbazyleki()
     return redirect('homepage')
 
 def sresultind(request, ean, indic):

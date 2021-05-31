@@ -5,5 +5,6 @@ urlpatterns = [
     path("", views.home, name="homepage"),
     path("result/<str:ean>", views.sresult, name="result"),
     path("createExample/", views.example, name="example"),
+    path("importbazy/", views.importbazy, name="importbazy"),
     path("result/<str:ean>/<int:indic>", views.sresultind, name="resultind")
 ]
