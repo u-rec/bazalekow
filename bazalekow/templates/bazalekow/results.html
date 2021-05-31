@@ -13,7 +13,7 @@
                     Brak danych na temat wskazań wybranego leku
                 {%else%}
                     {% for ind in indicators %}
-                        <li><a href="{% url 'resultind' ean=tean indic=ind.id %}">{{ind.name}}</a></li>
+                        <li><a href="{% url 'resultind' ean=tean indic=ind.id page=0 %}">{{ind.name}}</a></li>
                     {% endfor %}
                 {% endif %}
             </ul>

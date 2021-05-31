@@ -5,7 +5,7 @@ from .skrypt_import_1 import *
 
 # Create your views here.
 
-wszystko = "We wszystkich zarejestrowanych wskazaniach na dzień wydania decyzji"
+wszystko = "we wszystkich zarejestrowanych wskazaniach na dzień wydania decyzji"
 
 def home(request):
     if request.method == 'POST':
@@ -23,8 +23,10 @@ def sresult(request, ean, page):
     drugs = Drug.objects.filter(substance=drug.substance).filter(dose=drug.dose).filter(form=drug.form)
     print(drugs)
     indicators = drug.indications.all().exclude(name=wszystko)
-    if indicators[0].no_ind == True:
-        indicators = indicators[:1]
+    if len(indicators) == 0:
+        indicators = [Indication(name="", no_ind=True)]
+    # if indicators[0].no_ind == True:
+    #     indicators = indicators[:1]
     # elif indicators[0].name == wszystko:
     #     indicators = indicators[1:]
     #indicators = Indication.objects.none()
@@ -62,8 +64,10 @@ def sresultind(request, ean, page, indic):
     drugs = Drug.objects.filter(substance=drug.substance).filter(dose=drug.dose).filter(form=drug.form).filter(indications=indicat)
     print(drugs)
     indicators = drug.indications.all().exclude(name=wszystko)
-    if indicators[0].no_ind == True:
-        indicators = indicators[:1]
+    if len(indicators) == 0:
+        indicators = [Indication(name="", no_ind=True)]
+    # if indicators[0].no_ind == True:
+    #     indicators = indicators[:1]
     # elif indicators[0].name == wszystko:
     #     indicators = indicators[1:]
     #indicators = Indication.objects.none()
