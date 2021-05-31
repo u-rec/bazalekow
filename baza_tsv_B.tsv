@@ -1,0 +1,484 @@
+LP	Substancja	EAN	Nazwa	Postać	Dawka	Zawartość	Wskazania	Odpłatność	Dopłata
+1	Abemaciclibum	05014602500986	Verzenios	tabletki powlekane	100 mg	70 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+2	Abemaciclibum	05014602500993	Verzenios	tabletki powlekane	150 mg	70 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+3	Abemaciclibum	05014602500979	Verzenios	tabletki powlekane	50 mg	70 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+4	Abirateroni acetas	05909991307080	Zytiga	tabletki powlekane	500 mg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+5	Adalimumabum	08715131019761	Amgevita	roztwór do wstrzykiwań	20 mg	1 amp.-strzyk. 0,4 ml	dostępne w ramach programu lekowego	bezpłatny	0
+7	Adalimumabum	08715131019808	Amgevita	roztwór do wstrzykiwań	40 mg	2 amp.-strzyk. 0,8 ml	dostępne w ramach programu lekowego	bezpłatny	0
+8	Adalimumabum	08715131019792	Amgevita	roztwór do wstrzykiwań	40 mg	2 wstrzykiwacze 0,8 ml	dostępne w ramach programu lekowego	bezpłatny	0
+6	Adalimumabum	08715131019754	Amgevita	roztwór do wstrzykiwań	40 mg	6 amp.-strzyk. 0,8 ml	dostępne w ramach programu lekowego	bezpłatny	0
+9	Adalimumabum	08715131019747	Amgevita	roztwór do wstrzykiwań	40 mg	6 wstrzykiwaczy 0,8 ml	dostępne w ramach programu lekowego	bezpłatny	0
+10	Adalimumabum	08054083011905	Humira	roztwór do wstrzykiwań	40 mg	2 amp.-strz. + 2 gaziki	dostępne w ramach programu lekowego	bezpłatny	0
+12	Adalimumabum	05909990005055	Humira	roztwór do wstrzykiwań	40 mg	2 amp.-strz. + 2 gaziki nasączone alkoholem	dostępne w ramach programu lekowego	bezpłatny	0
+11	Adalimumabum	08054083011912	Humira	roztwór do wstrzykiwań	40 mg	2 wstrz. + 2 gaziki	dostępne w ramach programu lekowego	bezpłatny	0
+13	Adalimumabum	07613421020897	Hyrimoz	roztwór do wstrzykiwań w ampułko-strzykawce	40 mg	2 amp. - strzyk. z zabezpieczeniem	dostępne w ramach programu lekowego	bezpłatny	0
+14	Adalimumabum	07613421020880	Hyrimoz	roztwór do wstrzykiwań w ampułko-strzykawce	40 mg	2 wstrzykiwacze	dostępne w ramach programu lekowego	bezpłatny	0
+15	Adalimumabum	04052682034206	Idacio	roztwór do wstrzykiwań	40 mg	1 fiol. 0,8 ml + 1 strzyk. + 1 igła + 1 nasadka + 2 gaziki	dostępne w ramach programu lekowego	bezpłatny	0
+16	Adalimumabum	04052682034213	Idacio	roztwór do wstrzykiwań w ampułko-strzykawce	40 mg	2 amp.-strzyk. 0,8 ml + 2 gaziki	dostępne w ramach programu lekowego	bezpłatny	0
+17	Adalimumabum	04052682034220	Idacio	roztwór do wstrzykiwań we wstrzykiwaczu	40 mg	2 wstrzykiwacze 0,8 ml + 2 gaziki	dostępne w ramach programu lekowego	bezpłatny	0
+18	Adalimumabum	08809593170150	Imraldi	roztwór do wstrzykiwań we ampułko-strzykawce	40 mg	2 amp.-strzyk. 0,8 ml + 2 gaziki	dostępne w ramach programu lekowego	bezpłatny	0
+19	Adalimumabum	08809593170167	Imraldi	roztwór do wstrzykiwań we wstrzykiwaczu	40 mg	2 wstrzykiwacze 0,8 ml + 2 gaziki	dostępne w ramach programu lekowego	bezpłatny	0
+20	Adefoviri dipivoxilum	05909990009596	Hepsera	tabletki	10 mg	30 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+21	Afatinib	05909991083397	Giotrif	tabletki powlekane	20 mg	28 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+22	Afatinib	05909991083434	Giotrif	tabletki powlekane	30 mg	28 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+23	Afatinib	05909991083465	Giotrif	tabletki powlekane	40 mg	28 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+24	Aflibercept	03837000137095	Eylea	roztwór do wstrzykiwań	40 mg/ml	1 fiol.a 0,1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+25	Aflibercept	05909991039400	Zaltrap	koncentrat do sporządzania roztworu do infuzji	25 mg/ml	1 fiol. 4 ml	dostępne w ramach programu lekowego	bezpłatny	0
+26	Aflibercept	05909991039462	Zaltrap	koncentrat do sporządzania roztworu do infuzji	25 mg/ml	1 fiol. 8 ml	dostępne w ramach programu lekowego	bezpłatny	0
+27	Agalsidasum alfa	05909990999514	Replagal	koncentrat do sporządzania roztworu do infuzji	1 mg/ml	1 fiol. 3,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+28	Agalsidasum beta	05909990971213	Fabrazyme	proszek do przygotowania koncentratu do sporządzania roztworu do infuzji	35 mg	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+29	Agalsidasum beta	05909990013654	Fabrazyme	proszek do przygotowania koncentratu do sporządzania roztworu do infuzji	5 mg	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+30	Alectinibum	05902768001143	Alecensa	kapsułki twarde	150 mg	224 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+31	Alemtuzumabum	05909991088156	Lemtrada	koncetrat do sporządzania roztworu do infuzji	12 mg	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+32	Alglucosidasum alfa	05909990623853	Myozyme	proszek do przygotowania koncentratu do sporządzania roztworu do infuzji	50 mg	1 fiol.po 20 ml	dostępne w ramach programu lekowego	bezpłatny	0
+33	Alirocumabum	05909991236618	Praluent	roztwór do wstrzykiwań	150 mg	2 wstrzykiwacze	dostępne w ramach programu lekowego	bezpłatny	0
+34	Anakinrum	07350031442090	Kineret	roztwór do wstrzykiwań	100 mg/0,67 ml	7 amp.-strz. po 0,67 ml	dostępne w ramach programu lekowego	bezpłatny	0
+35	Apomorphini hydrochloridum hemihydricum	05909991247904	Dacepton	roztwór do infuzji	5 mg/ml	5 fiol.a 20 ml	dostępne w ramach programu lekowego	bezpłatny	0
+36	Atezolizumabum	05902768001167	Tecentriq	koncentrat do sporządzania roztworu do infuzji	1200 mg	1 fiol.a 20 ml	dostępne w ramach programu lekowego	bezpłatny	0
+37	Axitinibum	05909991004439	Inlyta	tabletki powlekane	1 mg	56 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+38	Axitinibum	05909991004460	Inlyta	tabletki powlekane	5 mg	56 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+39	Baricitinibum	03837000170825	Olumiant	tabletki powlekane	4 mg	35 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+40	Benralizumab	05000456031516	Fasenra	roztwór do wstrzykiwań w ampułko-strzykawce	30 mg	1 amp.-strz. a 1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+41	Betainum anhydricum	05909990031900	Cystadane	proszek doustny	1 g	180 g	dostępne w ramach programu lekowego	bezpłatny	0
+42	Bevacizumabum	05909990010486	Avastin	koncentrat do sporządzania roztworu do infuzji	100 mg/4 ml	1 fiol.po 4 ml	dostępne w ramach programu lekowego	bezpłatny	0
+43	Bevacizumabum	05909990010493	Avastin	koncentrat do sporządzania roztworu do infuzji	400 mg/16 ml	1 fiol.po 16 ml	dostępne w ramach programu lekowego	bezpłatny	0
+45	Bevacizumabum	08715131021870	Mvasi	koncentrat do sporządzania roztworu do infuzji	25 mg/ml	1 fiol.a 16 ml	dostępne w ramach programu lekowego	bezpłatny	0
+44	Bevacizumabum	08715131021863	Mvasi	koncentrat do sporządzania roztworu do infuzji	25 mg/ml	1 fiol.a 4 ml	dostępne w ramach programu lekowego	bezpłatny	0
+46	Bevacizumabum	05415062349342	Zirabev	koncentrat do sporządzania roztworu do infuzji	25 mg/ml	1 fiol.a 16 ml	dostępne w ramach programu lekowego	bezpłatny	0
+47	Bevacizumabum	05415062349359	Zirabev	koncentrat do sporządzania roztworu do infuzji	25 mg/ml	1 fiol.a 4 ml	dostępne w ramach programu lekowego	bezpłatny	0
+48	Bexarotenum	05909990213504	Targretin	kaps. miękkie	75 mg	100 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+49	Binimetinib	03573994003922	Mektovi	tabletki powlekane	15 mg	84 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+50	Blinatumomabum	05909991256371	Blincyto	proszek do sporządzania koncentratu roztworu do infuzji	38,5 µg	1 fiol.prosz. + 1 fiol.roztw.stabilizującego 10ml	dostępne w ramach programu lekowego	bezpłatny	0
+51	Bosentanum	05909991102869	Bopaho	tabletki powlekane	125 mg	56 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+52	Bosentanum	05909991102807	Bopaho	tabletki powlekane	62,5 mg	56 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+53	Bosentanum	05907626708004	Bosentan Sandoz GmbH	tabletki powlekane	125 mg	56 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+54	Bosutinibum	05909991056841	Bosulif	tabletki powlekane	100 mg	28 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+55	Bosutinibum	05909991056865	Bosulif	tabletki powlekane	500 mg	28 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+56	Brentuximabum vedotinum	05909991004545	Adcetris	proszek do sporządzania koncentratu roztworu do infuzji	50 mg	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+57	Brigatinib	07038319119956	Alunbrig	tabletki powlekane	180 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+58	Brigatinib	07038319119963	Alunbrig	tabletki powlekane	90 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+59	Brigatinib	07038319120112	Alunbrig	tabletki powlekane	90 mg	7 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+60	Cabozantinibum	03582186003947	Cabometyx	tabl. powi.	20 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+61	Cabozantinibum	03582186003954	Cabometyx	tabl. powi.	40 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+62	Cabozantinibum	03582186003961	Cabometyx	tabl. powi.	60 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+63	Ceritinibum	05909991220075	Zykadia	kapsułki twarde	150 mg	150 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+64	Certolizumabum pegol	05909990734894	Cimzia	roztwór do wstrzykiwań w amp.-strz.	200 mg/ml	2 amp.-strz.	dostępne w ramach programu lekowego	bezpłatny	0
+66	Cetuximabum	05909990035946	Erbitux	roztwór do infuzji	5 mg/ml	1 fiol.po 100 ml	dostępne w ramach programu lekowego	bezpłatny	0
+65	Cetuximabum	05909990035922	Erbitux	roztwór do infuzji	5 mg/ml	1 fiol.po 20 ml	dostępne w ramach programu lekowego	bezpłatny	0
+67	Cinacalcetii hydrochloridum	05902020926887	Cinacalcet Mylan	tabletki powlekane	30 mg	28 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+68	Cinacalcetii hydrochloridum	05902020926894	Cinacalcet Mylan	tabletki powlekane	60 mg	28 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+69	Cinacalcetum	05909991256654	Cinacalcet Accord	tabletki powlekane	30 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+70	Cinacalcetum	05909991256685	Cinacalcet Accord	tabletki powlekane	60 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+71	Cinacalcetum	05909991256715	Cinacalcet Accord	tabletki powlekane	90 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+72	Cinacalcetum	05909990016297	Mimpara	tabletki powlekane	30 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+73	Cinacalcetum	05909990016341	Mimpara	tabletki powlekane	60 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+74	Cinacalcetum	05909990016389	Mimpara	tabletki powlekane	90 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+75	Cladribinum	04054839365331	Mavenclad	tabletki	10 mg	1 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+76	Cladribinum	04054839365348	Mavenclad	tabletki	10 mg	4 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+77	Cladribinum	04054839365355	Mavenclad	tabletki	10 mg	6 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+78	Cobimetinibum	05902768001136	Cotellic	tabletki powlekane	20 mg	63 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+79	Crizotinibum	05909991004484	Xalkori	kapsułki twarde	200 mg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+80	Crizotinibum	05909991004507	Xalkori	kapsułki twarde	250 mg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+82	Dabrafenibum	05909991078591	Tafinlar	kapsułki twarde	50 mg	120 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+81	Dabrafenibum	05909991078584	Tafinlar	kapsułki twarde	50 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+84	Dabrafenibum	05909991078645	Tafinlar	kapsułki twarde	75 mg	120 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+83	Dabrafenibum	05909991078607	Tafinlar	kapsułki twarde	75 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+86	Daratumumabum	05909991275235	Darzalex	koncentrat do sporządzania roztworu do infuzji	20 mg/ml	1 fiol. 20 ml	dostępne w ramach programu lekowego	bezpłatny	0
+85	Daratumumabum	05909991275228	Darzalex	koncentrat do sporządzania roztworu do infuzji	20 mg/ml	1 fiol. 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+87	Darbepoetinum alfa	05909990738779	Aranesp	roztwór do wstrzykiwań	20 μg/0,5 ml	1 amp.-strz.po 0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+88	Darbepoetinum alfa	05909990738793	Aranesp	roztwór do wstrzykiwań	30 μg/0,3 ml	1 amp.-strz.po 0,3 ml	dostępne w ramach programu lekowego	bezpłatny	0
+89	Darbepoetinum alfa	05909990738847	Aranesp	roztwór do wstrzykiwań	40 μg/0,4 ml	1 amp.-strz.po 0,4 ml	dostępne w ramach programu lekowego	bezpłatny	0
+90	Darbepoetinum alfa	05909990738861	Aranesp	roztwór do wstrzykiwań	50 μg/0,5 ml	1 amp.-strz.po 0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+91	Darbepoetinum alfa	05909990738885	Aranesp	roztwór do wstrzykiwań	60 μg/0,3 ml	1 amp.-strz.po 0,3 ml	dostępne w ramach programu lekowego	bezpłatny	0
+92	Dazatynib	05909990671601	Sprycel	tabletki powlekane	100 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+93	Dazatynib	05909990818655	Sprycel	tabletki powlekane	140 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+94	Dazatynib	05909990621323	Sprycel	tabletki powlekane	20 mg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+95	Dazatynib	05909990621354	Sprycel	tabletki powlekane	50 mg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+96	Dazatynib	05909990818631	Sprycel	tabletki powlekane	80 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+97	Dimethylis fumaras	00646520415445	Tecfidera	kaps. dojel. twarde	120 mg	14 kaps.	dostępne w ramach programu lekowego	bezpłatny	0
+98	Dimethylis fumaras	00646520415452	Tecfidera	kaps. dojel. twarde	240 mg	56 kaps.	dostępne w ramach programu lekowego	bezpłatny	0
+99	Dinutuximab beta	05060146291736	Qarziba	koncentrat do sporządzania roztworu do infuzji	4,5 mg/ml	1 fiol.po 4,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+100	Durvalumabum	05000456031493	Imfinzi	koncentrat do sporządzania roztworu do infuzji	50 mg/ml	1 fiol.a 10 ml	dostępne w ramach programu lekowego	bezpłatny	0
+101	Durvalumabum	05000456031486	Imfinzi	koncentrat do sporządzania roztworu do infuzji	50 mg/ml	1 fiol.a 2,4 ml	dostępne w ramach programu lekowego	bezpłatny	0
+102	Eculizumabum	05909990643776	Soliris	koncentrat do sporządzania roztworu do infuzji	300 mg	1 fiol. 30 ml	dostępne w ramach programu lekowego	bezpłatny	0
+103	Efmoroctocogum alfa	05909991246488	Elocta	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	1000 IU	1 fiol. proszku + 1 amp.-strzyk. rozp. 3 ml + zestaw do sporządzania i podania	dostępne w ramach programu lekowego	bezpłatny	0
+104	Efmoroctocogum alfa	05909991246495	Elocta	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	1500 IU	1 fiol. proszku + 1 amp.-strzyk. rozp. 3 ml + zestaw do sporządzania i podania	dostępne w ramach programu lekowego	bezpłatny	0
+105	Efmoroctocogum alfa	05909991246501	Elocta	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	2000 IU	1 fiol. proszku + 1 amp.-strzyk. rozp. 3 ml + zestaw do sporządzania i podania	dostępne w ramach programu lekowego	bezpłatny	0
+106	Efmoroctocogum alfa	05909991246457	Elocta	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	250 IU	1 fiol. proszku + 1 amp.-strzyk. rozp. 3 ml + zestaw do sporządzania i podania	dostępne w ramach programu lekowego	bezpłatny	0
+107	Efmoroctocogum alfa	05909991246518	Elocta	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	3000 IU	1 fiol. proszku + 1 amp.-strzyk. rozp. 3 ml + zestaw do sporządzania i podania	dostępne w ramach programu lekowego	bezpłatny	0
+108	Efmoroctocogum alfa	05909991246464	Elocta	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	500 IU	1 fiol. proszku + 1 amp.-strzyk. rozp. 3 ml + zestaw do sporządzania i podania	dostępne w ramach programu lekowego	bezpłatny	0
+109	Eftrenonacogum alpha	07350031441673	Alprolix	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	1000 IU	1 fiol. proszku + 1 amp.-strzyk. rozp. 5 ml + zestaw do podawania	dostępne w ramach programu lekowego	bezpłatny	0
+110	Eftrenonacogum alpha	07350031441680	Alprolix	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	2000 IU	1 fiol. proszku + 1 amp.-strzyk. rozp. 5 ml + zestaw do podawania	dostępne w ramach programu lekowego	bezpłatny	0
+111	Eftrenonacogum alpha	07350031441659	Alprolix	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	250 IU	1 fiol. proszku + 1 amp.-strzyk. rozp. 5 ml + zestaw do podawania	dostępne w ramach programu lekowego	bezpłatny	0
+112	Eftrenonacogum alpha	07350031441697	Alprolix	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	3000 IU	1 fiol. proszku + 1 amp.-strzyk. rozp. 5 ml + zestaw do podawania	dostępne w ramach programu lekowego	bezpłatny	0
+113	Eftrenonacogum alpha	07350031441666	Alprolix	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	500 IU	1 fiol. proszku + 1 amp.-strzyk. rozp. 5 ml + zestaw do podawania	dostępne w ramach programu lekowego	bezpłatny	0
+114	Elbasvirum + Grazoprevirum	05901549325102	Zepatier	tabletki powlekane	50+100 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+115	Eliglustatum	05909991205942	Cerdelga	kapsułki twarde	84 mg	56 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+116	Eltrombopagum	05909990748204	Revolade	tabletki powlekane	25 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+117	Eltrombopagum	05909990748235	Revolade	tabletki powlekane	50 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+118	Encorafenibum	03573994003939	Braftovi	kapsułki twarde	50 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+119	Encorafenibum	03573994003946	Braftovi	kapsułki twarde	75 mg	42 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+120	Entecavirum	05909991363734	Entecavir Aurovitas	tabletki powlekane	0,5 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+121	Entecavirum	05909991363826	Entecavir Aurovitas	tabletki powlekane	1 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+122	Entecavirum	05909991337957	Entecavir Polpharma	tabletki powlekane	0,5 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+123	Entecavirum	05909991337971	Entecavir Polpharma	tabletki powlekane	1 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+124	Entecavirum	05909991338022	Entecavir Stada	tabletki powlekane	0,5 mg	30 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+125	Entecavirum	05909991338046	Entecavir Stada	tabletki powlekane	1 mg	30 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+126	Entecavirum	05909991347451	Entecavir Synoptis	tabletki powlekane	0,5 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+127	Entecavirum	05909991347468	Entecavir Synoptis	tabletki powlekane	1 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+128	Entecavirum	05909991369576	Entecavir Zentiva	tabletki powlekane	0,5 mg	30 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+129	Entecavirum	05909991369590	Entecavir Zentiva	tabletki powlekane	1 mg	30 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+130	Entecavirum	05906414003123	Entekavir Adamed 	tabletki powlekane	0,5 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+131	Entecavirum	05906414003130	Entekavir Adamed 	tabletki powlekane	1 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+132	Entecavirum monohydricum	05055565742532	Entecavir Accord	tabletki powlekane	0,5 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+133	Entecavirum monohydricum	05055565742549	Entecavir Accord	tabletki powlekane	1 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+134	Enzalutamidum	05909991080938	Xtandi	kapsułka miękka	40 mg	112 kaps.	dostępne w ramach programu lekowego	bezpłatny	0
+135	Epoetinum alfa	05909990072378	Binocrit	roztwór do wstrzykiwań	1000 j.m./0,5 ml	6 amp.-strz.po 0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+136	Epoetinum alfa	05909990072392	Binocrit	roztwór do wstrzykiwań	2000 j.m./ml	6 amp-strz.po 1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+137	Epoetinum alfa	05909990072439	Binocrit	roztwór do wstrzykiwań	3000 j.m./0,3 ml	6 amp-strz.po 0,3 ml	dostępne w ramach programu lekowego	bezpłatny	0
+138	Epoetinum alfa	05909990072453	Binocrit	roztwór do wstrzykiwań	4000 j.m./0,4 ml	6 amp-strz.po 0,4 ml	dostępne w ramach programu lekowego	bezpłatny	0
+139	Epoprostenolum	05909991089085	Veletri	proszek do sporządzania roztworu do infuzji	0,5 mg	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+140	Epoprostenolum	05909991089092	Veletri	proszek do sporządzania roztworu do infuzji	1,5 mg	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+141	Etanerceptum	08809593170983	Benepali	roztwór do wstrzykiwań w ampułko-strzykawce	25 mg	4 amp.-strzyk. 0,51 ml	dostępne w ramach programu lekowego	bezpłatny	0
+142	Etanerceptum	08809593170969	Benepali	roztwór do wstrzykiwań w ampułko-strzykawce	50 mg	4 amp.-wstrz.po 1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+143	Etanerceptum	08809593170976	Benepali	roztwór do wstrzykiwań we wstrzykiwaczu	50 mg	4 wstrz.po 1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+144	Etanerceptum	05909990880881	Enbrel	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań do stosowania u dzieci	10 mg/ml	4 fiol. + 4 amp.-strz.+ 4 igły + 4 nasadki na fiol. + 8 gazików	dostępne w ramach programu lekowego	bezpłatny	0
+145	Etanerceptum	05909990777938	Enbrel	proszek i rozpuszczalnik do sporządzenia roztworu do wstrzykiwań	25 mg/ml	4 fiol. + 4 amp.-strz.+ 4 igły + 4 nasadki na fiol. + 8 gazików	dostępne w ramach programu lekowego	bezpłatny	0
+146	Etanerceptum	05909990618255	Enbrel	roztwór do wstrzykiwań w ampułko-strzykawce	50 mg	4 amp.-strz.po 1 ml + 4 gaziki z alkoholem	dostępne w ramach programu lekowego	bezpłatny	0
+147	Etanerceptum	05909990712755	Enbrel	roztwór do wstrzykiwań we wstrzykiwaczu	50 mg	4 wstrz.po 1 ml + 4 gaziki z alkoholem	dostępne w ramach programu lekowego	bezpłatny	0
+148	Etanerceptum	09002260025770	Erelzi	roztwór do wstrzykiwań	25 mg	4 amp.-strzyk. 0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+150	Etanerceptum	09002260025794	Erelzi	roztwór do wstrzykiwań	50 mg	4 amp.-strzyk.	dostępne w ramach programu lekowego	bezpłatny	0
+149	Etanerceptum	09002260025787	Erelzi	roztwór do wstrzykiwań	50 mg	4 wstrzykiwacze 1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+151	Everolimusum	05909990711598	Afinitor	tabletki	10 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+152	Everolimusum	05909990711567	Afinitor	tabletki	5 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+153	Everolimusum	05909991383596	Everolimus Accord	tabletki	10 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+154	Everolimusum	05909991383480	Everolimus Accord	tabletki	2,5 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+155	Everolimusum	05909991383565	Everolimus Accord	tabletki	5 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+156	Everolimusum	05909991372538	Everolimus Stada	tabletki	10 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+157	Everolimusum	05909991372545	Everolimus Stada	tabletki	10 mg	90 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+158	Everolimusum	05909991372514	Everolimus Stada	tabletki	5 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+159	Everolimusum	05909991372521	Everolimus Stada	tabletki	5 mg	90 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+160	Everolimusum	05909990900602	Votubia	tabletki	10 mg	30 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+161	Everolimusum	05909990900565	Votubia	tabletki	2,5 mg	30 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+162	Everolimusum	05909990900589	Votubia	tabletki	5 mg	30 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+163	Evolocumabum	05909991224370	Repatha	roztwór do wstrzykiwań	140 mg	2 wstrzykiwacze	dostępne w ramach programu lekowego	bezpłatny	0
+164	Factor IX coagulationis humanus	05909990645220	Immunine 1200 IU	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	1200 j.m.	1 zestaw: fiol. proszku + fiol. rozp. +  zestaw do przenoszenia lub filtrowania + strzykawka + igła + zestaw do infuzji	dostępne w ramach programu lekowego	bezpłatny	0
+165	Factor IX coagulationis humanus	05909990643110	Immunine 600 IU	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	600 j.m.	1 zestaw: fiol. proszku + fiol. rozp. +  zestaw do przenoszenia lub filtrowania + strzykawka + igła + zestaw do infuzji	dostępne w ramach programu lekowego	bezpłatny	0
+166	Factor IX coagulationis humanus	05909990799374	Octanine F 1000 IU	proszek i rozpuszczalnik do sporządzenia roztworu do wstrzykiwań	1000 j.m.	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+167	Factor IX coagulationis humanus	05909990799367	Octanine F 500 IU	proszek i rozpuszczalnik do sporządzenia roztworu do wstrzykiwań	500 j.m.	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+168	Factor VIII coagulationis humanus	05909991213695	Beriate 1000	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań lub infuzji	1000 j.m.	1 fiol.z prosz. + 1 fiol.z rozp.po 10 ml	dostępne w ramach programu lekowego	bezpłatny	0
+169	Factor VIII coagulationis humanus	05909991213688	Beriate 500	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań lub infuzji	500 j.m.	1 fiol.z prosz. + 1 fiol.z rozp.po 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+170	Factor VIII coagulationis humanus	05909990573615	Immunate 1000 IU FVIII/750 IU VWF	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	1000 j.m./fiol.	1 zestaw: fiol. proszku + fiol. rozp. +  zestaw do przenoszenia lub filtrowania + strzykawka + igła + zestaw do infuzji	dostępne w ramach programu lekowego	bezpłatny	0
+171	Factor VIII coagulationis humanus	05909990573554	Immunate 250 IU FVIII/190 IU VWF	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	250 j.m./fiol.	1 zestaw: fiol. proszku + fiol. rozp. +  zestaw do przenoszenia lub filtrowania + strzykawka + igła + zestaw do infuzji	dostępne w ramach programu lekowego	bezpłatny	0
+172	Factor VIII coagulationis humanus	05909990573561	Immunate 500 IU FVIII/375 IU VWF	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	500 j.m./fiol.	1 zestaw: fiol. proszku + fiol. rozp. +  zestaw do przenoszenia lub filtrowania + strzykawka + igła + zestaw do infuzji	dostępne w ramach programu lekowego	bezpłatny	0
+173	Factor VIII coagulationis humanus	05909990825349	Octanate 1 000 IU	proszek i rozpuszczalnik do sporządzenia roztworu do wstrzykiwań	1000 j.m.	1 fiol. (1000 j.m.) + zestaw do sporządzania roztworu i podania	dostępne w ramach programu lekowego	bezpłatny	0
+174	Factor VIII coagulationis humanus	05909990825301	Octanate 250 IU	proszek i rozpuszczalnik do sporządzenia roztworu do wstrzykiwań	250 j.m.	1 fiol. (250 j.m.) + zestaw do sporządzania roztworu i podania	dostępne w ramach programu lekowego	bezpłatny	0
+175	Factor VIII coagulationis humanus	05909990825332	Octanate 500 IU	proszek i rozpuszczalnik do sporządzenia roztworu do wstrzykiwań	500 j.m.	1 fiol. (500 j.m.) + zestaw do sporządzania roztworu i podania	dostępne w ramach programu lekowego	bezpłatny	0
+176	Fingolimodum	05909990856480	Gilenya	kapsułki twarde	0,5 mg	28 kaps.	dostępne w ramach programu lekowego	bezpłatny	0
+177	Glatirameri acetas	05909990017065	Copaxone	roztwór do wstrzykiwań	20 mg/ml	28 amp-strzyk.	dostępne w ramach programu lekowego	bezpłatny	0
+178	Glatirameri acetas	05909991216382	Copaxone	roztwór do wstrzykiwań	40 mg/ml	12 amp.-strz.po 1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+179	Glatirameri acetas	05909991282882	Remurel	roztwór do wstrzykiwań w ampułko-strzykawce	20 mg/ml	28 amp.-strz. po 1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+180	Glatirameri acetas	05909991353926	Remurel	roztwór do wstrzykiwań w ampułko-strzykawce	40 mg/ml	12 amp.-strz.po 1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+181	Glecaprevirum + Pibrentasvirum	08054083015927	Maviret	tabletki powlekane	100+40 mg	84 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+182	Golimumabum	05909990717187	Simponi	roztwór do wstrzykiwań	50 mg	1 wstrzykiwacz	dostępne w ramach programu lekowego	bezpłatny	0
+183	Guselkumabum	05413868113006	Tremfya	roztwór do wstrzykiwań	100 mg/ml	1 amp.-strzyk.po 1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+184	Ibrutinibum	05909991195137	Imbruvica	kapsułki twarde	140 mg	90 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+185	Idursulfasum	05909990053742	Elaprase	koncentrat do sporządzania roztworu do infuzji	2 mg/ml	1 fiol.po 3 ml	dostępne w ramach programu lekowego	bezpłatny	0
+186	Iloprostum	05909990609079	Ventavis 	roztwór do inhalacji z nebulizatora	10 μg/ml	30 amp.po 1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+187	Iloprostum	05908229300633	Ventavis	roztwór do inhalacji z nebulizatora	20 μg/ml	42 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+188	Imatinibum	05909990010356	Glivec	tabletki powlekane	100 mg	120 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+189	Imatinibum	05909990010349	Glivec	tabletki powlekane	400 mg	90 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+190	Imiglucerasum	05909990943012	Cerezyme	proszek do przygotowania koncentratu do sporządzania roztworu do infuzji	400 j.m.	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+191	Immunoglobulinum humanum	05909990797868	Flebogamma DIF	roztwór do infuzji	50 mg/ml	1 fiol.po 100 ml	dostępne w ramach programu lekowego	bezpłatny	0
+192	Immunoglobulinum humanum	05909990797875	Flebogamma DIF	roztwór do infuzji	50 mg/ml	1 fiol.po 200 ml	dostępne w ramach programu lekowego	bezpłatny	0
+194	Immunoglobulinum humanum	05909990869572	Hizentra	roztwór do wstrzykiwań	0,2 g/ml	1 fiol.po 10 ml	dostępne w ramach programu lekowego	bezpłatny	0
+195	Immunoglobulinum humanum	05909990869657	Hizentra	roztwór do wstrzykiwań	0,2 g/ml	1 fiol.po 20 ml	dostępne w ramach programu lekowego	bezpłatny	0
+193	Immunoglobulinum humanum	05909990869541	Hizentra	roztwór do wstrzykiwań	0,2 g/ml	1 fiol.po 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+196	Immunoglobulinum humanum	05909991067380	Hizentra	roztwór do wstrzykiwań	0,2 g/ml	1 fiol.po 50 ml	dostępne w ramach programu lekowego	bezpłatny	0
+199	Immunoglobulinum humanum	05909990725793	Privigen	roztwór do infuzji	100 mg/ml	1 fiol.po 100 ml	dostępne w ramach programu lekowego	bezpłatny	0
+200	Immunoglobulinum humanum	05909990725809	Privigen	roztwór do infuzji	100 mg/ml	1 fiol.po 200 ml	dostępne w ramach programu lekowego	bezpłatny	0
+201	Immunoglobulinum humanum	05909990725823	Privigen	roztwór do infuzji	100 mg/ml	1 fiol.po 25 ml	dostępne w ramach programu lekowego	bezpłatny	0
+197	Immunoglobulinum humanum	05909991078676	Privigen	roztwór do infuzji	100 mg/ml	1 fiol.po 400 ml	dostępne w ramach programu lekowego	bezpłatny	0
+198	Immunoglobulinum humanum	05909990725786	Privigen	roztwór do infuzji	100 mg/ml	1 fiol.po 50 ml	dostępne w ramach programu lekowego	bezpłatny	0
+204	Immunoglobulinum humanum normale	05909991292898	Cuvitru	roztwór do wstrzykiwań	200 mg/ml	1 fiol. 10 ml	dostępne w ramach programu lekowego	bezpłatny	0
+203	Immunoglobulinum humanum normale	05909991292874	Cuvitru	roztwór do wstrzykiwań	200 mg/ml	1 fiol. 20 ml	dostępne w ramach programu lekowego	bezpłatny	0
+202	Immunoglobulinum humanum normale	05909991292904	Cuvitru	roztwór do wstrzykiwań	200 mg/ml	1 fiol. 40 ml	dostępne w ramach programu lekowego	bezpłatny	0
+205	Immunoglobulinum humanum normale	05909991292881	Cuvitru	roztwór do wstrzykiwań	200 mg/ml	1 fiol. 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+207	Immunoglobulinum humanum normale	05909990729883	Gammanorm	roztwór do wstrzykiwań	165 mg/ml	1 fiol.po 10 ml	dostępne w ramach programu lekowego	bezpłatny	0
+206	Immunoglobulinum humanum normale	05909990729944	Gammanorm	roztwór do wstrzykiwań	165 mg/ml	1 fiol.po 20 ml	dostępne w ramach programu lekowego	bezpłatny	0
+210	Immunoglobulinum humanum normale	05909991072896	HyQvia	roztwór do infuzji	100 mg/ml	1 fiol.po 100 ml	dostępne w ramach programu lekowego	bezpłatny	0
+211	Immunoglobulinum humanum normale	05909991072902	HyQvia	roztwór do infuzji	100 mg/ml	1 fiol.po 200 ml	dostępne w ramach programu lekowego	bezpłatny	0
+208	Immunoglobulinum humanum normale	05909991072872	HyQvia	roztwór do infuzji	100 mg/ml	1 fiol.po 25 ml	dostępne w ramach programu lekowego	bezpłatny	0
+212	Immunoglobulinum humanum normale	05909991072926	HyQvia	roztwór do infuzji	100 mg/ml	1 fiol.po 300 ml	dostępne w ramach programu lekowego	bezpłatny	0
+209	Immunoglobulinum humanum normale	05909991072889	HyQvia	roztwór do infuzji	100 mg/ml	1 fiol.po 50 ml	dostępne w ramach programu lekowego	bezpłatny	0
+214	Immunoglobulinum humanum normale	05909990425143	Kiovig	roztwór do infuzji	100 mg/ml	1 fiol. 10 ml	dostępne w ramach programu lekowego	bezpłatny	0
+217	Immunoglobulinum humanum normale	05909990425174	Kiovig	roztwór do infuzji	100 mg/ml	1 fiol. 100 ml	dostępne w ramach programu lekowego	bezpłatny	0
+218	Immunoglobulinum humanum normale	05909990425181	Kiovig	roztwór do infuzji	100 mg/ml	1 fiol. 200 ml	dostępne w ramach programu lekowego	bezpłatny	0
+215	Immunoglobulinum humanum normale	05909990425150	Kiovig	roztwór do infuzji	100 mg/ml	1 fiol. 25 ml	dostępne w ramach programu lekowego	bezpłatny	0
+213	Immunoglobulinum humanum normale	05909990782208	Kiovig	roztwór do infuzji	100 mg/ml	1 fiol. 300 ml	dostępne w ramach programu lekowego	bezpłatny	0
+216	Immunoglobulinum humanum normale	05909990425167	Kiovig	roztwór do infuzji	100 mg/ml	1 fiol. 50 ml	dostępne w ramach programu lekowego	bezpłatny	0
+223	Immunoglobulinum humanum normale	05909991268480	Panzyga	roztwór do infuzji	100 mg/ml	1 butelka 100 ml	dostępne w ramach programu lekowego	bezpłatny	0
+225	Immunoglobulinum humanum normale	05909991268473	Panzyga	roztwór do infuzji	100 mg/ml	1 butelka 200 ml	dostępne w ramach programu lekowego	bezpłatny	0
+224	Immunoglobulinum humanum normale	05909991268459	Panzyga	roztwór do infuzji	100 mg/ml	1 butelka 300 ml	dostępne w ramach programu lekowego	bezpłatny	0
+220	Immunoglobulinum humanum normale	05909991268497	Panzyga	roztwór do infuzji	100 mg/ml	1 butelka 50 ml	dostępne w ramach programu lekowego	bezpłatny	0
+222	Immunoglobulinum humanum normale	05909991268503	Panzyga	roztwór do infuzji	100 mg/ml	1 butelka 60 ml	dostępne w ramach programu lekowego	bezpłatny	0
+221	Immunoglobulinum humanum normale	05909991268466	Panzyga	roztwór do infuzji	100 mg/ml	1 fiol. 10 ml	dostępne w ramach programu lekowego	bezpłatny	0
+219	Immunoglobulinum humanum normale	05909991268510	Panzyga	roztwór do infuzji	100 mg/ml	1 fiol. 25 ml	dostępne w ramach programu lekowego	bezpłatny	0
+228	Immunoglobulinum humanum normale ad usum intravenosum	05909990049875	Ig VENA	roztwór do infuzji	50 g/l	1 fiol.po 100 ml + zest. do infuzji	dostępne w ramach programu lekowego	bezpłatny	0
+227	Immunoglobulinum humanum normale ad usum intravenosum	05909990049868	Ig VENA	roztwór do infuzji	50 g/l	1 fiol.po 20 ml	dostępne w ramach programu lekowego	bezpłatny	0
+229	Immunoglobulinum humanum normale ad usum intravenosum	05909990049882	Ig VENA	roztwór do infuzji	50 g/l	1 fiol.po 200 ml + zest. do infuzji	dostępne w ramach programu lekowego	bezpłatny	0
+226	Immunoglobulinum humanum normale ad usum intravenosum	05909990049851	Ig VENA	roztwór do infuzji	50 g/l	1 fiol.po 50 ml + zest. do infuzji	dostępne w ramach programu lekowego	bezpłatny	0
+230	Immunoglobulinum humanum normale ad usum intravenosum	05909990762712	Octagam	roztwór do infuzji	10 g/200 ml	1 but.po 200 ml	dostępne w ramach programu lekowego	bezpłatny	0
+231	Immunoglobulinum humanum normale ad usum intravenosum	05909990762514	Octagam	roztwór do infuzji	2,5 g/50 ml	1 but.po 50 ml	dostępne w ramach programu lekowego	bezpłatny	0
+232	Immunoglobulinum humanum normale ad usum intravenosum	05909990762613	Octagam	roztwór do infuzji	5 g/100 ml	1 but.po 100 ml	dostępne w ramach programu lekowego	bezpłatny	0
+235	Immunoglobulinum humanum normale ad usum intravenosum	05909990763887	Octagam 10%	roztwór do infuzji	100 mg/ml	1 but.po 100 ml	dostępne w ramach programu lekowego	bezpłatny	0
+233	Immunoglobulinum humanum normale ad usum intravenosum	05909990763863	Octagam 10%	roztwór do infuzji	100 mg/ml	1 but.po 20 ml	dostępne w ramach programu lekowego	bezpłatny	0
+236	Immunoglobulinum humanum normale ad usum intravenosum	05909990763894	Octagam 10%	roztwór do infuzji	100 mg/ml	1 but.po 200 ml	dostępne w ramach programu lekowego	bezpłatny	0
+234	Immunoglobulinum humanum normale ad usum intravenosum	05909990763870	Octagam 10%	roztwór do infuzji	100 mg/ml	1 but.po 50 ml	dostępne w ramach programu lekowego	bezpłatny	0
+237	Infliximabum	05713219492751	Flixabi	proszek do sporządzania koncentratu roztworu do infuzji	100 mg	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+238	Infliximabum	05909991078881	Inflectra	proszek do sporządzania koncentratu roztworu do infuzji	100 mg	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+239	Infliximabum	05909990900114	Remicade	proszek do sporządzania koncentratu do sporządzania roztworu do infuzji	0,1 g	1 fiol.po 20 ml	dostępne w ramach programu lekowego	bezpłatny	0
+240	Infliximabum	05909991086305	Remsima	proszek do sporządzania koncentratu roztworu do infuzji	100 mg	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+241	Infliximabum	07613421020903	Zessly	proszek do sporządzania koncentratu roztworu do infuzji	100 mg	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+242	Inotuzumabum ozogamicini	05907636977193	Besponsa	proszek do sporządzania koncentratu roztworu do infuzji	1 mg	1 fiol. proszku	dostępne w ramach programu lekowego	bezpłatny	0
+243	Interferon beta-1b	05909990619375	Betaferon	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	300 μg	15 zest.	dostępne w ramach programu lekowego	bezpłatny	0
+244	Interferonum beta-1a	05909990008148	Avonex	roztwór do wstrzykiwań	30 μg/0,5 ml	4 amp.-strz. + 4 igły	dostępne w ramach programu lekowego	bezpłatny	0
+245	Interferonum beta-1a	05909991001407	Avonex	roztwór do wstrzykiwań	30 μg/0,5 ml	4 wstrz.	dostępne w ramach programu lekowego	bezpłatny	0
+246	Interferonum beta-1a	05909990874934	Rebif	roztwór do wstrzykiwań	44 μg/0,5 ml	12 amp.-strz.a 0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+247	Interferonum beta-1a	05909990728497	Rebif	roztwór do wstrzykiwań	44 μg/0,5 ml	4 wkł.a 1,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+248	Ipilimumabum	05909990872442	Yervoy	koncentrat do sporządzania roztworu do infuzji (jałowy koncentrat)	5 mg/ml	1 fiol.po 10 ml	dostępne w ramach programu lekowego	bezpłatny	0
+249	Ipilimumabum	05909990872459	Yervoy	koncentrat do sporządzania roztworu do infuzji (jałowy koncentrat)	5 mg/ml	1 fiol.po 40 ml	dostępne w ramach programu lekowego	bezpłatny	0
+252	Ivacaftorum	00351167104606	Kalydeco	tabletki powlekane	150 mg	56 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+250	Ivacaftorum	00351167112205	Kalydeco	granulat w saszetce	50 mg	56 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+251	Ivacaftorum	00351167113103	Kalydeco	granulat w saszetce	75 mg	56 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+253	Ixekizumabum	05909991282950	Taltz	roztwór do wstrzykiwań	80 mg/ml	2 wstrzykiwacze 1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+254	Karfilzomib	05909991298463	Kyprolis	proszek do sporządzania roztworu do infuzji	10 mg	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+255	Karfilzomib	05909991256388	Kyprolis	proszek do sporządzania roztworu do infuzji	60 mg	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+256	Ketoanalogi aminokwasów	05909990338511	Ketosteril	tabletki powlekane	630 mg	100 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+257	Lamivudinum	05909991259907	Lamivudine Mylan	tabletki powlekane	100 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+258	Lamivudinum	05909990479610	Zeffix	tabletki powlekane	100 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+260	Lapatynibum	05909990851973	Tyverb	tabletki powlekane	250 mg	140 tabl.(but.)	dostępne w ramach programu lekowego	bezpłatny	0
+259	Lapatynibum	05909990851966	Tyverb	tabletki powlekane	250 mg	70 tabl.(but.)	dostępne w ramach programu lekowego	bezpłatny	0
+261	Laronidasum	05909990005673	Aldurazyme	koncentrat do sporządzania roztworu do infuzji	100 j.m./ml	1 fiol.po 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+262	L-carnitine	05016533045017	L-karnityna	proszek	1 g	50 sasz.	dostępne w ramach programu lekowego	bezpłatny	0
+263	Ledipasvirum + Sofosbuvirum	05391507141217	Harvoni	tabletki powlekane	90+400 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+264	Lenalidomidum	05909990086702	Revlimid	kapsułki twarde	10 mg	21 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+265	Lenalidomidum	05909990086764	Revlimid	kapsułki twarde	15 mg	21 kaps.	dostępne w ramach programu lekowego	bezpłatny	0
+266	Lenalidomidum	05909990086771	Revlimid	kapsułki twarde	25 mg	21 kaps.	dostępne w ramach programu lekowego	bezpłatny	0
+267	Lenalidomidum	05909990086696	Revlimid	kapsułki twarde	5 mg	21 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+268	Levodopum + Carbidopum	05909990419135	Duodopa	żel dojelitowy	20+5 mg/ml	1 szt. (7 kasetek po 100 ml)	dostępne w ramach programu lekowego	bezpłatny	0
+269	Lonoctocog alfa	05909991326111	Afstyla	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	1000 j.m.	1 fiol. proszku + 1 fiol rozp. + zestaw do podawania	dostępne w ramach programu lekowego	bezpłatny	0
+270	Lonoctocog alfa	05909991326128	Afstyla	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	1500 j.m.	1 fiol. proszku + 1 fiol rozp. + zestaw do podawania	dostępne w ramach programu lekowego	bezpłatny	0
+271	Lonoctocog alfa	05909991326135	Afstyla	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	2000 j.m.	1 fiol. proszku + 1 fiol rozp. + zestaw do podawania	dostępne w ramach programu lekowego	bezpłatny	0
+272	Lonoctocog alfa	05909991326098	Afstyla	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	250 j.m.	1 fiol. proszku + 1 fiol rozp. + zestaw do podawania	dostępne w ramach programu lekowego	bezpłatny	0
+273	Lonoctocog alfa	05909991326142	Afstyla	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	2500 j.m.	1 fiol. proszku + 1 fiol rozp. + zestaw do podawania	dostępne w ramach programu lekowego	bezpłatny	0
+274	Lonoctocog alfa	05909991326159	Afstyla	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	3000 j.m.	1 fiol. proszku + 1 fiol rozp. + zestaw do podawania	dostępne w ramach programu lekowego	bezpłatny	0
+275	Lonoctocog alfa	05909991326104	Afstyla	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	500 j.m.	1 fiol. proszku + 1 fiol rozp. + zestaw do podawania	dostępne w ramach programu lekowego	bezpłatny	0
+276	Macytentan	07640111931133	Opsumit	tabletki powlekane	10 mg	30 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+277	Mecaserminum	05909990076024	Increlex	roztwór do wstrzykiwań	10 mg/ml	1 fiol.po 4 ml	dostępne w ramach programu lekowego	bezpłatny	0
+279	Mepolizumabum	05909991407148	Nucala	roztwór do wstrzykiwań	100 mg	1 ampułko-strzykawka	dostępne w ramach programu lekowego	bezpłatny	0
+278	Mepolizumabum	05909991246617	Nucala	proszek do sporządzania roztworu do wstrzykiwań	100 mg	1 fiol. proszku	dostępne w ramach programu lekowego	bezpłatny	0
+280	Mepolizumabum	05909991407018	Nucala	roztwór do wstrzykiwań	100 mg	1 wstrzykiwacz	dostępne w ramach programu lekowego	bezpłatny	0
+281	Migalastatum	05909991390273	Galafold	kapsułki twarde	123 mg	14 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+282	Natalizumabum	05909990084333	Tysabri	koncentrat do sporządzania roztworu do infuzji	300 mg	1 fiol.po 15 ml	dostępne w ramach programu lekowego	bezpłatny	0
+283	Nilotynibum	05909990073535	Tasigna	kapsułki twarde	200 mg	112 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+284	Nintedanibum	05909991206444	Ofev	kapsułki miękkie	100 mg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+285	Nintedanibum	05909991206468	Ofev	kapsułki miękkie	150 mg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+287	Nintedanibum	05909991203894	Vargatef	kapsułki miękkie	100 mg	120 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+286	Nintedanibum	05909991203887	Vargatef	kapsułki miękkie	100 mg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+288	Nintedanibum	05909991203900	Vargatef	kapsułki miękkie	150 mg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+289	Nitisinonum	05909991358334	Nitisinone  MDK	kapsułki twarde	10 mg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+290	Nitisinonum	05909991358310	Nitisinone  MDK	kapsułki twarde	2 mg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+291	Nitisinonum	05909991358327	Nitisinone  MDK	kapsułki twarde	5 mg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+292	Nitisinonum	07350031442182	Orfadin	kapsułki twarde	10 mg	60 kaps.	dostępne w ramach programu lekowego	bezpłatny	0
+293	Nitisinonum	05909990214778	Orfadin	kapsułki twarde	10 mg	60 kaps.	dostępne w ramach programu lekowego	bezpłatny	0
+294	Nitisinonum	05909990214754	Orfadin	kapsułki twarde	2 mg	60 kaps.	dostępne w ramach programu lekowego	bezpłatny	0
+295	Nitisinonum	07350031442267	Orfadin	kapsułki twarde	2 mg	60 kaps.	dostępne w ramach programu lekowego	bezpłatny	0
+296	Nitisinonum	07350031441833	Orfadin	kapsułki twarde	20 mg	60 kaps.	dostępne w ramach programu lekowego	bezpłatny	0
+297	Nitisinonum	05909991218133	Orfadin	kapsułki twarde	20 mg	60 kaps.	dostępne w ramach programu lekowego	bezpłatny	0
+298	Nitisinonum	05909990214761	Orfadin	kapsułki twarde	5 mg	60 kaps.	dostępne w ramach programu lekowego	bezpłatny	0
+299	Nitisinonum	07350031442229	Orfadin	kapsułki twarde	5 mg	60 kaps.	dostępne w ramach programu lekowego	bezpłatny	0
+301	Nivolumabum	05909991220518	Opdivo	koncentrat do sporządzania roztworu do infuzji	10 mg/ml	1 fiol.po 10 ml	dostępne w ramach programu lekowego	bezpłatny	0
+300	Nivolumabum	05909991220501	Opdivo	koncentrat do sporządzania roztworu do infuzji	10 mg/ml	1 fiol.po 4 ml	dostępne w ramach programu lekowego	bezpłatny	0
+302	Nonacog alfa	05909990057207	BeneFIX	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	1000 j.m.	1 fiol. + 1 amp.-strz. + 1 zestaw	dostępne w ramach programu lekowego	bezpłatny	0
+303	Nonacog alfa	05909990057221	BeneFIX	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	2000 j.m.	1 fiol. + 1 amp.-strz. + 1 zestaw	dostępne w ramach programu lekowego	bezpłatny	0
+304	Nonacog alfa	05909990057184	BeneFIX	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	250 j.m.	1 fiol. + 1 amp.-strz. + 1 zestaw	dostępne w ramach programu lekowego	bezpłatny	0
+305	Nonacog alfa	05909990057191	BeneFIX	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	500 j.m.	1 fiol. + 1 amp.-strz. + 1 zestaw	dostępne w ramach programu lekowego	bezpłatny	0
+306	Nonacogum gamma (rDNA)	05909991210120	Rixubis	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	1000 j.m./5 ml	1 fiol. proszku + 1 fiol. rozp. 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+307	Nonacogum gamma (rDNA)	05909991210137	Rixubis	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	2000 j.m./5 ml	1 fiol. proszku + 1 fiol. rozp. 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+308	Nonacogum gamma (rDNA)	05909991210090	Rixubis	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	250 j.m./5 ml	1 fiol. proszku + 1 fiol. rozp. 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+309	Nonacogum gamma (rDNA)	05909991210144	Rixubis	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	3000 j.m./5 ml	1 fiol. proszku + 1 fiol. rozp. 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+310	Nonacogum gamma (rDNA)	05909991210106	Rixubis	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	500 j.m./5 ml	1 fiol. proszku + 1 fiol. rozp. 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+311	Nusinersenum	05713219500975	Spinraza	roztwór do wstrzykiwań	12 mg	1 fiol. 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+312	Obinutuzumabum	05902768001105	Gazyvaro	koncentrat do sporządzania roztworu do infuzji	1000 mg	1 fiol.po 40 ml	dostępne w ramach programu lekowego	bezpłatny	0
+313	Ocrelizumabum	05902768001174	Ocrevus	koncentrat do sporządzania roztworu do infuzji	30 mg/ml	10 ml	dostępne w ramach programu lekowego	bezpłatny	0
+314	Octocog alfa	05909990224340	Advate	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	1000 j.m.	1 fiol.z prosz. + 1 fiol.z rozp.po 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+315	Octocog alfa	05909990224357	Advate	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	1500 j.m.	1 fiol. z proszkiem + 1 fiol. z rozpuszczalnikiem po 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+316	Octocog alfa	05909990697441	Advate	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	2000 j.m.	1 fiol. z proszkiem + 1 fiol. z rozpuszczalnikiem po 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+317	Octocog alfa	05909990224302	Advate	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	250 j.m.	1 fiol. z proszkiem + 1 fiol. z rozpuszczalnikiem po 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+318	Octocog alfa	05909990697458	Advate	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	3000 j.m.	1 fiol. z proszkiem + 1 fiol. z rozpuszczalnikiem po 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+319	Octocog alfa	05909990224333	Advate	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	500 j.m.	1 fiol. z proszkiem + 1 fiol. z rozpuszczalnikiem po 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+320	Olaparibum	05902135480052	Lynparza	kapsułki twarde	50 mg	448 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+321	Omalizumabum	05909990708406	Xolair	roztwór do wstrzykiwań	150 mg	1 amp.-strzyk. 1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+322	Omalizumabum	05909990708376	Xolair	roztwór do wstrzykiwań	75 mg	1 amp.-strzyk. 0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+323	Osimertinibum	05000456012058	Tagrisso	tabletki powlekane	40 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+324	Osimertinibum	05000456012065	Tagrisso	tabletki powlekane	80 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+325	Paclitaxelum albuminatum	05909990930265	Abraxane	proszek do sporządzania zawiesiny do infuzji	5 mg/ml	1 fiol.po 100 mg	dostępne w ramach programu lekowego	bezpłatny	0
+326	Palbociclibum	05907636977087	Ibrance	kapsułki twarde	100 mg	21 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+327	Palbociclibum	05907636977094	Ibrance	kapsułki twarde	125 mg	21 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+328	Palbociclibum	05907636977070	Ibrance	kapsułki twarde	75 mg	21 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+330	Palivizumabum	08054083006093	Synagis	roztwór do wstrzykiwań	100 mg/ml	0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+329	Palivizumabum	08054083006109	Synagis	roztwór do wstrzykiwań	100 mg/ml	1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+332	Panitumumabum	05909990646555	Vectibix	koncentrat do sporządzania roztworu do infuzji	20 mg/ml	1 fiol.po 20 ml	dostępne w ramach programu lekowego	bezpłatny	0
+331	Panitumumabum	05909990646531	Vectibix	koncentrat do sporządzania roztworu do infuzji	20 mg/ml	1 fiol.po 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+333	Paricalcitolum	05909990942022	Paricalcitol Fresenius	roztwór do wstrzykiwań	2 μg/ml	5 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+334	Paricalcitolum	04046241091243	Paricalcitol Fresenius	roztwór do wstrzykiwań	2 μg/ml	5 fiol.a 1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+336	Paricalcitolum	05909990942060	Paricalcitol Fresenius	roztwór do wstrzykiwań	5 μg/ml	5 fiol. a 1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+335	Paricalcitolum	04046241079906	Paricalcitol Fresenius	roztwór do wstrzykiwań	5 μg/ml	5 fiol.a 1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+337	Pasireotidum	05909991200305	Signifor	proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań	20 mg	1 fiol. proszku + 1 amp.-strzyk. 2 ml rozp. + 1 igła + 1 łącznik fiolki	dostępne w ramach programu lekowego	bezpłatny	0
+338	Pasireotidum	05909991200312	Signifor	proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań	40 mg	1 fiol. proszku + 1 amp.-strzyk. 2 ml rozp. + 1 igła + 1 łącznik fiolki	dostępne w ramach programu lekowego	bezpłatny	0
+339	Pasireotidum	05909991200336	Signifor	proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań	60 mg	1 fiol. proszku + 1 amp.-strzyk. 2 ml rozp. + 1 igła + 1 łącznik fiolki	dostępne w ramach programu lekowego	bezpłatny	0
+340	Pazopanibum	05909990764877	Votrient	tabletki powlekane	200 mg	30 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+341	Pazopanibum	05909990764884	Votrient	tabletki powlekane	200 mg	90 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+342	Pazopanibum	05909990764891	Votrient	tabletki powlekane	400 mg	30 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+343	Pazopanibum	05909990764907	Votrient	tabletki powlekane	400 mg	60 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+344	Peginterferonum alfa-2a	05909990984718	Pegasys	roztwór do wstrzykiwań	270 μg/ml	1 amp.-strz.po  0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+345	Peginterferonum alfa-2a	05909990984817	Pegasys	roztwór do wstrzykiwań	360 μg/ml	1 amp.-strz.po  0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+346	Peginterferonum alfa-2a	05902768001013	Pegasys	roztwór do wstrzykiwań	90 µg/0,5 ml	1 amp.-strz.po 0,5 ml (+igła)	dostępne w ramach programu lekowego	bezpłatny	0
+347	Peginterferonum beta-1a	00646520442274	Plegridy	roztwór do wstrzykiwań	125 μg	2 amp.-strz.po 0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+348	Peginterferonum beta-1a	00646520442113	Plegridy	roztwór do wstrzykiwań	125 μg	2 wstrz.po 0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+349	Peginterferonum beta-1a	00646520441970	Plegridy	roztwór do wstrzykiwań	"63 μg; 94 μg"	2 amp.-strz.po 0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+350	Peginterferonum beta-1a	00646520437201	Plegridy	roztwór do wstrzykiwań	"63 μg; 94 μg"	2 wstrz.po 0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+351	Pegvisomant	05909990006281	Somavert	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	10 mg	30 amp.-strzyk.	dostępne w ramach programu lekowego	bezpłatny	0
+352	Pegvisomant	05909990006298	Somavert	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	15 mg	30 amp.-strzyk.	dostępne w ramach programu lekowego	bezpłatny	0
+353	Pembrolizumabum	05901549325126	Keytruda	koncentrat do sporządzania roztworu do infuzji	25 mg/ml	1 fiol. 4 ml	dostępne w ramach programu lekowego	bezpłatny	0
+354	Pertuzumabum	05902768001006	Perjeta	koncentrat do sporządzania roztworu do infuzji	420 mg	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+356	Pirfenidonum	05902768001181	Esbriet	tabletki powlekane	267 mg	252 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+355	Pirfenidonum	05902768001198	Esbriet	tabletki powlekane	267 mg	63 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+357	Pirfenidonum	05902768001211	Esbriet	tabletki powlekane	801 mg	84 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+358	Pixantroni dimaleas	05909991206475	Pixuvri	proszek do sporządzania koncentratu roztworu do infuzji	29 mg	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+359	Pomalidomidum	05909991185589	Imnovid	kaps. twarda	1 mg	21 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+360	Pomalidomidum	05909991185596	Imnovid	kaps. twarda	2 mg	21 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+361	Pomalidomidum	05909991185602	Imnovid	kaps. twarda	3 mg	21 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+362	Pomalidomidum	05909991185619	Imnovid	kaps. twarda	4 mg	21 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+363	Ponatinibum	07640159433613	Iclusig	tabletki powlekane	15 mg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+364	Ponatinibum	07640159433637	Iclusig	tabletki powlekane	45 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+365	Radium dichloridum Ra223	05908229300176	Xofigo	roztwór do wstrzykiwań	1100 kBq/mL	1 fiol. 6 ml	dostępne w ramach programu lekowego	bezpłatny	0
+366	Ranibizumab	05909990000005	Lucentis	roztwór do wstrzykiwań	10 mg/ml	1 fiol. a 0,23 ml	dostępne w ramach programu lekowego	bezpłatny	0
+367	Ribavirinum	05909990999828	Rebetol	kapsułki twarde	200 mg	140 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+368	Ribociclibum	05909991336769	Kisqali	tabletki powlekane	200 mg	63 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+369	Riociguatum	05908229300305	Adempas	tabletki powlekane	0,5 mg	42 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+370	Riociguatum	05908229300336	Adempas	tabletki powlekane	1 mg	42 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+371	Riociguatum	05908229300367	Adempas	tabletki powlekane	1,5 mg	42 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+372	Riociguatum	05908229300398	Adempas	tabletki powlekane	2 mg	42 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+373	Riociguatum	05908229300428	Adempas	tabletki powlekane	2,5 mg	42 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+374	Risankizumabum	08054083019277	Skyrizi	roztwór do wstrzykiwań	75 mg/0,83 ml	2 ampułko-strzykawki + 2 gaziki nasączone alkoholem	dostępne w ramach programu lekowego	bezpłatny	0
+375	Rituximabum	05996537003155	Blitzima	koncentrat do sporządzania roztworu do infuzji	100 mg	2 fiol.po 10 ml	dostępne w ramach programu lekowego	bezpłatny	0
+376	Rituximabum	05996537002158	Blitzima	koncentrat do sporządzania roztworu do infuzji	500 mg	1 fiol.po 50 ml	dostępne w ramach programu lekowego	bezpłatny	0
+377	Rituximabum	05909990418817	MabThera	koncentrat do sporządzania roztworu do infuzji	100 mg	2 fiol.po 10 ml	dostępne w ramach programu lekowego	bezpłatny	0
+378	Rituximabum	05909990418824	MabThera	koncentrat do sporządzania roztworu do infuzji	500 mg	1 fiol.po 50 ml	dostępne w ramach programu lekowego	bezpłatny	0
+379	Rituximabum	07613421032975	Riximyo	koncentrat do sporządzania roztworu do infuzji	100 mg	2 fiol.po 10 ml	dostępne w ramach programu lekowego	bezpłatny	0
+380	Rituximabum	07613421032982	Riximyo	koncentrat do sporządzania roztworu do infuzji	500 mg	1 fiol.po 50 ml	dostępne w ramach programu lekowego	bezpłatny	0
+381	Romiplostimum	08715131018139	Nplate	proszek do sporządzania roztworu do wstrzykiwań	125 mcg	1 fiol. proszku	dostępne w ramach programu lekowego	bezpłatny	0
+382	Romiplostimum	05909990766994	Nplate	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	250 mcg	1 fiol. proszku + zestaw do rozpuszczenia leku	dostępne w ramach programu lekowego	bezpłatny	0
+383	Ruxolitinibum	05909991053789	Jakavi	tabletki	15 mg	56 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+384	Ruxolitinibum	05909991053833	Jakavi	tabletki	20 mg	56 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+385	Ruxolitinibum	05909991053758	Jakavi	tabletki	5 mg	56 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+386	Sekukinumab	05909991203832	Cosentyx	roztwór do wstrzykiwań	150 mg/ml	"2 amp.-strz.; 2 wstrz."	dostępne w ramach programu lekowego	bezpłatny	0
+387	Selexipagum	07640111932796	Uptravi	tabletki powlekane	1000 μg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+388	Selexipagum	07640111932802	Uptravi	tabletki powlekane	1200 μg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+389	Selexipagum	07640111932819	Uptravi	tabletki powlekane	1400 μg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+390	Selexipagum	07640111932826	Uptravi	tabletki powlekane	1600 μg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+391	Selexipagum	07640111932833	Uptravi	tabletki powlekane	200 μg	140 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+392	Selexipagum	07640111932758	Uptravi	tabletki powlekane	200 μg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+393	Selexipagum	07640111932765	Uptravi	tabletki powlekane	400 μg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+394	Selexipagum	07640111932772	Uptravi	tabletki powlekane	600 μg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+395	Selexipagum	07640111932789	Uptravi	tabletki powlekane	800 μg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+396	Sildenafili citras	05909991338015	Sildenafil Aurovitas	tabletki powlekane	20 mg	90 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+397	Sildenafilum	05055565731932	Granpidam	tabletki powlekane	20 mg	90 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+398	Sildenafilum	05903060610545	Remidia	tabletki powlekane	20 mg	90 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+399	Sildenafilum	05909990967780	Revatio	proszek do sporządzania zawiesiny doustnej	10 mg/ml	1 butelka 32,27 g (112 ml zawiesiny)	dostępne w ramach programu lekowego	bezpłatny	0
+400	Sildenafilum	05909991355715	Sildenafil Zentiva	tabletki powlekane	20 mg	90 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+401	Sofosbuvirum + Velpatasvirum	05391507142108	Epclusa	tabletki powlekane	400 + 100 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+402	Somatropinum	05909990887170	Genotropin 12	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	12  (36 j.m.) mg	5 jednorazowych, wielodawkowych wstrzykiwaczy GoQuick zawierających wkład z proszkiem i rozpuszczalnikiem po 1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+403	Somatropinum	05909990887095	Genotropin 5,3	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	5,3 (16 j.m.) mg	5 jednorazowych wielodawkowych wstrzykiwaczy GoQuick zawierających wkład z proszkiem i rozpuszczalnikiem po 1 ml	dostępne w ramach programu lekowego	bezpłatny	0
+404	Somatropinum	05909990072897	Omnitrope	roztwór do wstrzykiwań	10 mg/1,5 ml (30 j.m.)	5 wkł.po 1,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+405	Somatropinum	05909990050161	Omnitrope	roztwór do wstrzykiwań	5 mg/1,5 ml (15 j.m.)	5 wkł.po 1,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+406	Sorafenibum	05909990588169	Nexavar	tabletki powlekane	200 mg	112 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+407	Sunitinibum	05909990079377	Sutent	kapsułki twarde	12,5 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+408	Sunitinibum	05909990079384	Sutent	kapsułki twarde	25 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+409	Sunitinibum	05909990079391	Sutent	kapsułki twarde	50 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+410	Temsirolimusum	05909990080663	Torisel	koncentrat i rozpuszczalnik do sporządzania roztworu do infuzji	30 mg	1 fiol. 1,2 ml + 1 fiol. 2,2 ml rozp.	dostępne w ramach programu lekowego	bezpłatny	0
+411	Tenofoviri disoproxil	05909991291457	Ictady	tabletki powlekane	245 mg	30 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+412	Tenofoviri disoproxil	05909991285883	Tenofovir disoproxil Stada	tabletki powlekane	245 mg	30 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+413	Tenofoviri disoproxil	05909991298708	Tenofovir disoproxil Zentiva	tabletki powlekane	245 mg	30 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+414	Tenofovirum disoproxilum	05909991330026	Tenofovir disoproxil Accord	tabletki powlekane	245 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+415	Tenofovirum disoproxilum	05909991379704	Tenofovir disoproxil Aurovitas	tabletki powlekane	245 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+416	Tenofovirum disoproxilum	05902020926801	Tenofovir disoproxil Mylan	tabletki powlekane	245 mg	30 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+417	Tenofovirum disoproxilum	05909991335533	Tenofovir Polpharma	tabletki powlekane	245 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+418	Tenofovirum disoproxilum	05909991374563	Tenofovir Synoptis	tabletki powlekane	245 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+419	Teriflunomidum	05909991088170	Aubagio	tabletki powlekane	14 mg	28 tabl.	dostępne w ramach programu lekowego	bezpłatny	0
+420	Tobramycinum	05909990045976	Bramitob	roztwór do nebulizacji	300 mg/4 ml	56 poj.po 4 ml	dostępne w ramach programu lekowego	bezpłatny	0
+421	Tobramycinum	05909991308292	Tobramycin Via pharma	roztwór do nebulizacji	300 mg/5 ml	56 amp. 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+422	Tobramycinum	05909991321444	Tobramycyna SUN	roztwór do nebulizacji	300 mg/5 ml	56 amp. 5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+427	Tocilizumabum	05902768001075	RoActemra	roztwór do wstrzykiwań	162 mg/ml	4 amp.-strz.	dostępne w ramach programu lekowego	bezpłatny	0
+423	Tocilizumabum	05000471007053	RoActemra	koncentrat do sporządzania roztworu do infuzji	20 mg/ml	1 fiol.a 20 ml	dostępne w ramach programu lekowego	bezpłatny	0
+425	Tocilizumabum	05909990678259	RoActemra	koncentrat do sporządzania roztworu do infuzji	20 mg/ml	1 fiol.po 10 ml	dostępne w ramach programu lekowego	bezpłatny	0
+424	Tocilizumabum	05909990678266	RoActemra	koncentrat do sporządzania roztworu do infuzji	20 mg/ml	1 fiol.po 20 ml	dostępne w ramach programu lekowego	bezpłatny	0
+426	Tocilizumabum	05909990678273	RoActemra	koncentrat do sporządzania roztworu do infuzji	20 mg/ml	1 fiol.po 4 ml	dostępne w ramach programu lekowego	bezpłatny	0
+428	Tofacitinibum	05415062342800	Xeljanz	tabletki powlekane	10 mg	56 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+429	Tofacitinibum	05907636977100	Xeljanz	tabletki powlekane	5 mg	56 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+430	Toxinum botulinicum typum A ad iniectabile	05909990674817	Botox 	proszek do sporządzenia roztworu do wstrzykiwań	100 Jednostek Allergan	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+431	Toxinum botulinicum typum A ad iniectabile	05909991072094	Dysport	proszek do sporządzenia roztworu do wstrzykiwań	300 j.	1 fiol.po 300 j.	dostępne w ramach programu lekowego	bezpłatny	0
+432	Toxinum botulinicum typum A ad iniectabile	05909990729227	Dysport	proszek do sporządzenia roztworu do wstrzykiwań	500 j.	1 fiol.po 500 j.	dostępne w ramach programu lekowego	bezpłatny	0
+433	Toxinum botulinicum typum A ad iniectabile	05909990643950	Xeomin 	proszek do sporządzenia roztworu do wstrzykiwań	100 j.	1 fiol.po 100 j. (LD50)	dostępne w ramach programu lekowego	bezpłatny	0
+434	Trabectedinum	05909990635177	Yondelis	proszek do sporządzania koncentratu roztworu do infuzji	0,25 mg	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+435	Trabectedinum	05909990635184	Yondelis	proszek do sporządzania koncentratu roztworu do infuzji	1 mg	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+436	Trametinibum	05909991141813	Mekinist	tabletki powlekane	0,5 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+437	Trametinibum	05909991141851	Mekinist	tabletki powlekane	2 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+438	Trastuzumabum	05909990855919	Herceptin	proszek do przygotowania koncentratu do sporządzania roztworu do infuzji	150 mg	1 fiol.po 15 ml	dostępne w ramach programu lekowego	bezpłatny	0
+439	Trastuzumabum	05902768001037	Herceptin	roztwór do wstrzykiwań	600 mg	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+440	Trastuzumabum	08806238000315	Herzuma	proszek do sporządzania koncentratu roztworu do infuzji	150 mg	1 fiol. proszku	dostępne w ramach programu lekowego	bezpłatny	0
+441	Trastuzumabum	05996537004107	Herzuma	proszek do sporządzania koncentratu roztworu do infuzji	150 mg	1 fiol. proszku	dostępne w ramach programu lekowego	bezpłatny	0
+442	Trastuzumabum	08715131016982	Kanjinti	proszek do sporządzania koncentratu do przygotowania roztworu do infuzji	150 mg	1 fiolka po 20 ml	dostępne w ramach programu lekowego	bezpłatny	0
+443	Trastuzumabum	08715131016975	Kanjinti	proszek do sporządzania koncentratu do przygotowania roztworu do infuzji	420 mg	1 fiolka po 50 ml	dostępne w ramach programu lekowego	bezpłatny	0
+444	Trastuzumabum	05901797710415	Ogivri	proszek do sporządzania koncentratu roztworu do infuzji	150 mg	1 fiol. proszku 15 ml	dostępne w ramach programu lekowego	bezpłatny	0
+445	Trastuzumabum	05901797710781	Ogivri	proszek do sporządzania koncentratu roztworu do infuzji	420 mg	1 fiol. proszku	dostępne w ramach programu lekowego	bezpłatny	0
+446	Trastuzumabum	08809593170006	Ontruzant	proszek do sporządzania koncentratu roztworu do infuzji	150 mg	1 fiol. 15 ml	dostępne w ramach programu lekowego	bezpłatny	0
+447	Trastuzumabum	05415062339176	Trazimera	proszek do sporządzania koncentratu roztworu do infuzji	150 mg	1 fiol. proszku	dostępne w ramach programu lekowego	bezpłatny	0
+448	Trastuzumabum	05415062346655	Trazimera	proszek do sporządzania koncentratu roztworu do infuzji	420 mg	1 fiol. proszku	dostępne w ramach programu lekowego	bezpłatny	0
+449	Trastuzumabum	05055565766378	Zercepac	proszek do sporządzania koncentratu roztworu do infuzji	150 mg	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+450	Trastuzumabum emtansinum	05902768001044	Kadcyla	proszek do sporządzania koncentratu roztworu do infuzji	100 mg	1 fiol. proszku	dostępne w ramach programu lekowego	bezpłatny	0
+451	Trastuzumabum emtansinum	05902768001051	Kadcyla	proszek do sporządzania koncentratu roztworu do infuzji	160 mg	1 fiol. proszku	dostępne w ramach programu lekowego	bezpłatny	0
+452	Treprostynilum	05909990046805	Remodulin	roztwór do infuzji	1 mg/ml	1 szt. (1 fiol.po 20 ml)	dostępne w ramach programu lekowego	bezpłatny	0
+453	Treprostynilum	05909990046850	Remodulin	roztwór do infuzji	2,5 mg/ml	1 szt. (1 fiol.po 20 ml)	dostępne w ramach programu lekowego	bezpłatny	0
+454	Treprostynilum	05909990046867	Remodulin	roztwór do infuzji	5 mg/ml	1 szt. (1 fiol.po 20 ml)	dostępne w ramach programu lekowego	bezpłatny	0
+455	Treprostynilum	05909991418618	Tresuvi	roztwór do infuzji	1 mg/ml	1 fiol. po 10 ml	dostępne w ramach programu lekowego	bezpłatny	0
+456	Treprostynilum	05909991418649	Tresuvi	roztwór do infuzji	10 mg/ml	1 fiol. po 10 ml	dostępne w ramach programu lekowego	bezpłatny	0
+457	Treprostynilum	05909991418625	Tresuvi	roztwór do infuzji	2,5 mg/ml	1 fiol. po 10 ml	dostępne w ramach programu lekowego	bezpłatny	0
+458	Treprostynilum	05909991418632	Tresuvi	roztwór do infuzji	5 mg/ml	1 fiol. po 10 ml	dostępne w ramach programu lekowego	bezpłatny	0
+460	Trifluridinum + Tipiracilum	05901571320618	Lonsurf	tabletki powlekane	15+6,14 mg	20 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+459	Trifluridinum + Tipiracilum	05901571320625	Lonsurf	tabletki powlekane	15+6,14 mg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+462	Trifluridinum + Tipiracilum	05901571320632	Lonsurf	tabletki powlekane	20+8,19 mg	20 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+461	Trifluridinum + Tipiracilum	05901571320649	Lonsurf	tabletki powlekane	20+8,19 mg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+463	Triptorelinum	05909990486915	Diphereline SR 3,75	proszek i rozpuszczalnik do sporządzania zawiesiny o przedłużonym uwalnianiu do wstrzykiwań	3,75 mg	1 fiol. + 1 amp.po 2 ml + 1 strz. + 2 igły	dostępne w ramach programu lekowego	bezpłatny	0
+464	Turoctocogum alfa	05909991203399	NovoEight	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	1000 j.m.	1 fiol. + 1 amp.-strz.+ 1 łącznik fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+465	Turoctocogum alfa	05909991203405	NovoEight	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	1500 j.m.	1 fiol. + 1 amp.-strz.+ 1 łącznik fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+466	Turoctocogum alfa	05909991203412	NovoEight	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	2000 j.m.	1 fiol. + 1 amp.-strz.+ 1 łącznik fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+467	Turoctocogum alfa	05909991203375	NovoEight	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	250 j.m.	1 fiol. + 1 amp.-strz.+ 1 łącznik fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+468	Turoctocogum alfa	05909991203429	NovoEight	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	3000 j.m.	1 fiol. + 1 amp.-strz.+ 1 łącznik fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+469	Turoctocogum alfa	05909991203382	NovoEight	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	500 j.m.	1 fiol. + 1 amp.-strz.+ 1 łącznik fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+470	Ustekinumabum	05909991307066	Stelara	koncentrat do sporządzania roztworu do infuzji	130 mg	1 fiolka (30ml)	dostępne w ramach programu lekowego	bezpłatny	0
+471	Ustekinumabum	05909997077505	Stelara	roztwór do wstrzykiwań 	45 mg	1 amp-strz.	dostępne w ramach programu lekowego	bezpłatny	0
+472	Ustekinumabum	05909997077512	Stelara	roztwór do wstrzykiwań w ampułko-strzykawce	90 mg	1 amp-strz.	dostępne w ramach programu lekowego	bezpłatny	0
+473	Vandetanibum	05909990935437	Caprelsa	tabletki powlekane	100 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+474	Vandetanibum	05909990935444	Caprelsa	tabletki powlekane	300 mg	30 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+475	Vedolizumabum	05909991138202	Entyvio	proszek do sporządzania koncentratu roztworu do infuzji	300 mg	1 fiol. proszku	dostępne w ramach programu lekowego	bezpłatny	0
+476	Velaglucerasum alfa	05909990816774	Vpriv	proszek do sporządzania roztworu do infuzji	400 j.m.	1 fiol.	dostępne w ramach programu lekowego	bezpłatny	0
+477	Vemurafenibum	05909990935581	Zelboraf	tabletki powlekane	240 mg	56 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+478	Venetoclaxum	08054083013688	Venclyxto	tabletki powlekane	10 mg	14 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+481	Venetoclaxum	08054083013916	Venclyxto	tabletki powlekane	100 mg	112 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+480	Venetoclaxum	08054083013701	Venclyxto	tabletki powlekane	100 mg	14 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+479	Venetoclaxum	08054083013695	Venclyxto	tabletki powlekane	100 mg	7 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+482	Venetoclaxum	08054083013718	Venclyxto	tabletki powlekane	50 mg	7 szt.	dostępne w ramach programu lekowego	bezpłatny	0
+483	Vismodegibum	05902768001020	Erivedge	kapsułki twarde	150 mg	28 szt.	dostępne w ramach programu lekowego	bezpłatny	0
