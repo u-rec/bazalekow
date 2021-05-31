@@ -17,12 +17,14 @@ def sresult(request, ean, page):
     if page < 0:
         return redirect('result', ean=ean, page=0)
     drug = Drug.objects.filter(EAN=ean)
-    if len(drug) != 1:
+    if len(drug) < 1:
         return render(request, 'bazalekow/notfound.html')
+    indicators = Indication.objects.none()
+    for dr in drug:
+        indicators = indicators | dr.indications.all().exclude(name=wszystko)
     drug = drug[0]
     drugs = Drug.objects.filter(substance=drug.substance).filter(dose=drug.dose).filter(form=drug.form)
     print(drugs)
-    indicators = drug.indications.all().exclude(name=wszystko)
     if len(indicators) == 0:
         indicators = [Indication(name="", no_ind=True)]
     # if indicators[0].no_ind == True:
@@ -55,15 +57,18 @@ def sresultind(request, ean, page, indic):
         return redirect('result', ean=ean, page=0)
     drug = Drug.objects.filter(EAN=ean)
     indicat = Indication.objects.filter(id=indic)
-    if len(drug) != 1 or len(indicat) != 1:
+    if len(drug) < 1 or len(indicat) != 1:
         return render(request, 'bazalekow/notfound.html')
+    indicators = Indication.objects.none()
+    for dr in drug:
+        indicators = indicators | dr.indications.all().exclude(name=wszystko)
     drug = drug[0]
     indicat = indicat[0]
     if indicat.name == wszystko or indicat.no_ind == True:
         return redirect('result', ean=ean, page=page)
     drugs = Drug.objects.filter(substance=drug.substance).filter(dose=drug.dose).filter(form=drug.form).filter(indications=indicat)
     print(drugs)
-    indicators = drug.indications.all().exclude(name=wszystko)
+    # indicators = drug.indications.all().exclude(name=wszystko)
     if len(indicators) == 0:
         indicators = [Indication(name="", no_ind=True)]
     # if indicators[0].no_ind == True:
