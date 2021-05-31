@@ -44,9 +44,10 @@ def importbazywskazania():
                 wskazania = argumenty[7].replace('\"','').split(";")
                 for wskazanie in wskazania:
                     wskazania_set.add(re.sub("<+[0-9]>", "", wskazanie).strip().casefold())
-        for wskazania in wskazania_set:
-            wskazania_obiekt = Indication(name=wskazania)
-            wskazania_obiekt.save()
+        for wskazanie in wskazania_set:
+            if wskazanie != "":
+                wskazania_obiekt = Indication(name=wskazanie)
+                wskazania_obiekt.save()
 
         wskazania_set = set()
         for line in g.readlines()[1:]+h.readlines()[1:]:
@@ -55,9 +56,10 @@ def importbazywskazania():
                 wskazania = argumenty[7].replace('\"','').split(";")
                 for wskazanie in wskazania:
                     wskazania_set.add(re.sub("<+[0-9]>", "", wskazanie).strip().casefold())
-        for wskazania in wskazania_set:
-            wskazania_obiekt = Indication(name=wskazania, no_ind=True)
-            wskazania_obiekt.save()
+        for wskazanie in wskazania_set:
+            if wskazanie != "":
+                wskazania_obiekt = Indication(name=wskazanie, no_ind=True)
+                wskazania_obiekt.save()
 
         f.close()
         g.close()
@@ -84,7 +86,8 @@ def importbazyleki():
                 lek.save()
                 for wskazanie in argumenty[7].replace('\"','').split(";"):
                     jakie = re.sub("<+[0-9]>", "", wskazanie).strip().casefold()
-                    lek.indications.add(Indication.objects.get(name=jakie))
+                    if jakie != "":
+                        lek.indications.add(Indication.objects.get(name=jakie))
 
         for line in g.readlines()[1:]:
             argumenty = line.split("\t")
@@ -94,7 +97,8 @@ def importbazyleki():
                 lek.save()
                 for wskazanie in argumenty[7].replace('\"','').split(";"):
                     jakie = re.sub("<+[0-9]>", "", wskazanie).strip().casefold()
-                    lek.indications.add(Indication.objects.get(name=jakie))
+                    if jakie != "":
+                        lek.indications.add(Indication.objects.get(name=jakie))
 
         for line in h.readlines()[1:]:
             argumenty = line.split("\t")
@@ -104,7 +108,8 @@ def importbazyleki():
                 lek.save()
                 for wskazanie in argumenty[7].replace('\"','').split(";"):
                     jakie = re.sub("<+[0-9]>", "", wskazanie).strip().casefold()
-                    lek.indications.add(Indication.objects.get(name=jakie))
+                    if jakie != "":
+                        lek.indications.add(Indication.objects.get(name=jakie))
         f.close()
         g.close()
         h.close()
