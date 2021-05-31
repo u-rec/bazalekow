@@ -49,7 +49,6 @@ def importbazywskazania():
 @transaction.atomic
 def importbazyleki():
     siv = transaction.savepoint()
-    debug = open("debug.txt", "w")
     try:
         Drug.objects.all().delete()
         f = open("baza_tsv_A1.tsv", "r", encoding="utf-8")
@@ -61,9 +60,7 @@ def importbazyleki():
                 lek.save()
                 for wskazanie in argumenty[7].replace('\"','').split(";"):
                     jakie = re.sub("<+[0-9]>", "", wskazanie).strip().casefold()
-                    debug.write(str(jakie) + '\n*\n')
                     lek.indications.add(Indication.objects.get(name=jakie))
-        debug.close()
     except:
         transaction.savepoint_rollback(siv)
         raise Exception
