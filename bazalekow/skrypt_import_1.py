@@ -10,12 +10,12 @@ def importbazysubstancje():
     try:
         Substance.objects.all().delete()
         substancje_set = set()
-        f = open("tekstbazy.txt", "r", encoding="cp1250")
+        f = open("baza_tsv_A1.tsv", "r", encoding="utf-8")
         for line in f.readlines()[1:]:
-            argumenty = line.split("$")
-            if len(argumenty) >= 2:
-                for substancja in argumenty[1].split("+"):
-                    substancje_set.add(substancja.strip())
+            argumenty = line.split("\t")
+            if len(argumenty) == 10:
+                sub = argumenty[1].strip().casefold()
+                substancje_set.add(sub)
         for substancja in substancje_set:
             substancja_obiekt = Substance(name=substancja)
             substancja_obiekt.save()
@@ -30,16 +30,13 @@ def importbazywskazania():
     try:
         Indication.objects.all().delete()
         wskazania_set = set()
-        f = open("tekstbazy.txt", "r", encoding="cp1250")
+        f = open("baza_tsv_A1.tsv", "r", encoding="utf-8")
         for line in f.readlines()[1:]:
-            argumenty = line.split("$")
-            if len(argumenty) >= 7:
-                wskazania = argumenty[6].split(";")
-                if len(wskazania) == 1:
-                    wskazania_set.add(re.sub("<+[0-9]>", "", wskazania[0]).strip())
-                elif len(wskazania) > 1:
-                    for wskazanie in wskazania:
-                        wskazania_set.add(re.sub("<+[0-9]>", "", wskazanie).strip())
+            argumenty = line.split("\t")
+            if len(argumenty) == 10:
+                wskazania = argumenty[7].replace('\"','').split(";")
+                for wskazanie in wskazania:
+                    wskazania_set.add(re.sub("<+[0-9]>", "", wskazanie).strip().casefold())
         for wskazania in wskazania_set:
             wskazania_obiekt = Indication(name=wskazania)
             wskazania_obiekt.save()
@@ -48,24 +45,24 @@ def importbazywskazania():
         raise Exception
     transaction.savepoint_commit(siv)
 
-# 1. LP 2. Substancja 3. EAN 4. Nazwa 5. Postać + Dawka 6. Zawartość 7. Wskazania 8. Odpłatność 9. Dopłata
+#LP	Substancja	EAN	Nazwa	Postać	Dawka	Zawartość	Wskazania	Odpłatność	Dopłata
 @transaction.atomic
 def importbazyleki():
     siv = transaction.savepoint()
     debug = open("debug.txt", "w")
     try:
         Drug.objects.all().delete()
-        f = open("tekstbazy.txt", "r", encoding="cp1250")
+        f = open("baza_tsv_A1.tsv", "r", encoding="utf-8")
         for line in f.readlines()[1:]:
-            argumenty = line.split("$")
-            debug.write(str(len(argumenty)) + '\n*\n')
-            if len(argumenty) == 9:
-                #ta substancja tutaj to mocno wstępna
-                lek = Drug(name=argumenty[3], EAN=argumenty[2], substance=objects.get(argumenty[1][0].split("+").strip()),
-                    form=argumenty[4], dose=argumenty[5], content=argumenty[6], category=Category.A1, price=argumenty[8])
-                for wskazanie in argumenty[6].split(";"):
-                    lek.indications.add(Indication.objects.get(re.sub("<+[0-9]>", "", wskazanie).strip()))
+            argumenty = line.split("\t")
+            if len(argumenty) == 10:
+                substancja = argumenty[1].strip().casefold()
+                lek = Drug(name=argumenty[3], EAN=argumenty[2], substance=Substance.objects.get(name=substancja), form=argumenty[4], dose=argumenty[5], content=argumenty[6], category=Category.A1, price=argumenty[9].replace(",", "."))
                 lek.save()
+                for wskazanie in argumenty[7].replace('\"','').split(";"):
+                    jakie = re.sub("<+[0-9]>", "", wskazanie).strip().casefold()
+                    debug.write(str(jakie) + '\n*\n')
+                    lek.indications.add(Indication.objects.get(name=jakie))
         debug.close()
     except:
         transaction.savepoint_rollback(siv)
