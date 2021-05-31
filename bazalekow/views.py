@@ -1,6 +1,7 @@
 from django.shortcuts import render, get_object_or_404, redirect
 from .models import *
 from .createExampleData import createExample
+from .skrypt_import_1 import *
 
 # Create your views here.
 
@@ -41,6 +42,12 @@ def example(request):
     createExample()
     return redirect('homepage')
 
+def importbazy(request):
+    importbazysubstancje()
+    importbazywskazania()
+    importbazyleki()
+    return redirect('homepage')
+
 def sresultind(request, ean, page, indic):
     if page < 0:
         return redirect('result', ean=ean, page=0)
@@ -69,3 +76,4 @@ def sresultind(request, ean, page, indic):
     if len(drugs) > 30:
         drugs = drugs[:30]
     return render(request, 'bazalekow/results.html', {'drugs': drugs, 'indicators': indicators, 'tean': ean, 'page': page})
+
