@@ -34,13 +34,24 @@ def sresult(request, ean, page):
     #indicators = Indication.objects.none()
     #for dr in drugs:
     #    indicators = indicators | dr.indications.all()
+
+    nextbutton = 0
+    prevbutton = 0
+
+    if len(drugs) > (page+1)*30:
+        nextbutton = '/result/' + ean + '/' + str(page+1)
+
+    if page-1 >= 0:
+        prevbutton = '/result/' + ean + '/' + str(page-1)
+
     if len(drugs) > page * 30:
         drugs = drugs[(page * 30):]
     else:
         return redirect('result', ean=ean, page=((len(drugs) - 1) // 30))
     if len(drugs) > 30:
         drugs = drugs[:30]
-    return render(request, 'bazalekow/results.html', {'drugs': drugs, 'indicators': indicators, 'tean': ean, 'page': page})
+
+    return render(request, 'bazalekow/results.html', {'drugs': drugs, 'indicators': indicators, 'prevbutton': prevbutton, 'nextbutton': nextbutton, 'tean': ean, 'page': page})
 
 def example(request):
     createExample()
@@ -67,7 +78,16 @@ def sresultind(request, ean, page, indic):
     if indicat.name == wszystko or indicat.no_ind == True:
         return redirect('result', ean=ean, page=page)
     drugs = Drug.objects.filter(substance=drug.substance).filter(dose=drug.dose).filter(form=drug.form).filter(indications=indicat)
-    print(drugs)
+    
+    nextbutton = 0
+    prevbutton = 0
+
+    if len(drugs) > (page+1)*30:
+        nextbutton = '/result/' + ean + '/' + str(page+1) + '/' + str(indic)
+
+    if page-1 >= 0:
+        prevbutton = '/result/' + ean + '/' + str(page-1) + '/' + str(indic)
+
     # indicators = drug.indications.all().exclude(name=wszystko)
     if len(indicators) == 0:
         indicators = [Indication(name="", no_ind=True)]
@@ -84,5 +104,5 @@ def sresultind(request, ean, page, indic):
         return redirect('result', ean=ean, page=((len(drugs) - 1) // 30))
     if len(drugs) > 30:
         drugs = drugs[:30]
-    return render(request, 'bazalekow/results.html', {'drugs': drugs, 'indicators': indicators, 'tean': ean, 'page': page})
+    return render(request, 'bazalekow/results.html', {'drugs': drugs, 'indicators': indicators, 'prevbutton': prevbutton, 'nextbutton': nextbutton, 'tean': ean, 'page': page})
 

@@ -4,13 +4,14 @@
     <meta charset="utf-8" />
     {%load static%}
     <title>Bazaleków</title>
-    <script src='.js'></script>
+
+        <link rel="stylesheet" href="{% static 'bazalekow/css/main.css' %}">
+    
 </head>
 <body>
     <form id="eanquery" method="POST" action="#">
         {% csrf_token %}
-        <input type="text" placeholder="EAN" id="ean" name="ean">
-        <br>
+        <input type="text" placeholder="Wpisz kod EAN" id="ean" name="ean">
         <button type=submit>Szukaj</button>
     </form>
 </body>

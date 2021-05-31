@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+}
+
+.indicators{
+    float: left;
+    padding: 30px;
+    border-right: 1px solid #ddd;
+    height: 100vh;
+    width: 219px;
+}
+
+.indicators ul{
+    display: block;
+    padding-left: 12px;
+}
+
+.indicators ul li a{
+    color: #333;
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+.content{
+    padding: 30px;
+    float: right;
+    width: calc(100% - 340px);
+}
+
+.content table{
+    border: 1px solid #333;
+    border-collapse: collapse;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.content table th{
+    border: 1px solid #333;
+    border-right-color: #666;
+    background-color: #333;
+    color: #fff;
+    font-size: 14px;
+    padding: 8px 10px;
+    text-align: left;
+}
+
+.content table td{
+    border: 1px solid #333;
+    margin: 0;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+.button{
+    background-color: #333;
+    border-radius: 5px;
+    border: 0;
+    display: inline-block;
+    color: #fff;
+    padding: 7px 20px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.button.left{
+    float: left;
+}
+
+.button.right{
+    float: right;
+}

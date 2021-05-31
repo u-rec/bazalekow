@@ -2,12 +2,15 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Bazaleków: wynki wyszukiwania</title>
+        <title>Bazaleków: wyniki wyszukiwania</title>
         {% load static %}
-        <link rel="stylesheet" href="{% static 'bazalekow/css/mainstyle.css' %}">
+
+        <link rel="stylesheet" href="{% static 'bazalekow/css/result.css' %}">
     </head>
     <body>
-        <div> <!-- Lewe menu z listą wskazań refundacyjnych -->
+        <div class="indicators">
+            Lista dostępnych wskazań
+
             <ul>
                 {% if indicators.0.no_ind == True %}
                     Brak danych na temat wskazań wybranego leku
@@ -18,7 +21,7 @@
                 {% endif %}
             </ul>
         </div>
-        <div> <!-- Tabela z lekami -->
+        <div class="content"> <!-- Tabela z lekami -->
             <table>
                 <tr>
                     <th>Nazwa leku</th>
@@ -40,7 +43,7 @@
                         <td>{{drug.substance}}</td>
                         <td>{{drug.content}}</td>
                         <td>{{drug.EAN}}</td>
-                        <td>{{drug.price}}</td>
+                        <td>{{drug.price}} zł</td>
                         {% if indicators.0.no_ind == False %}
                             <td>
                             {%if drug.indications.all.0.no_ind == True%}
@@ -55,6 +58,14 @@
                     </tr>
                 {% endfor %}
             </table>
+
+            {% if prevbutton != 0 %}
+                <a href="{{prevbutton}}" class="button left" title="Poprzednia strona">Poprzednia strona</a>
+            {% endif %}
+
+            {% if nextbutton != 0 %}
+                <a href="{{nextbutton}}" class="button right" title="Następna strona">Następna strona</a>
+            {% endif %}
         </div> 
     </body>
 </html>
