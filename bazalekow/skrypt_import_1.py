@@ -3,6 +3,11 @@ from django.core.exceptions import ObjectDoesNotExist
 from django.db import transaction
 import re
 
+strtab = "tabletki"
+strtabp = "tabletki powlekane"
+strkap = "kapsułki"
+strkapt = "kapsułki twarde"
+
 #http://127.0.0.1:8000/importbazy/
 @transaction.atomic
 def importbazysubstancje():
@@ -82,7 +87,18 @@ def importbazyleki():
             argumenty = line.split("\t")
             if len(argumenty) == 10:
                 substancja = argumenty[1].strip().casefold()
-                lek = Drug(name=argumenty[3], EAN=argumenty[2], substance=Substance.objects.get(name=substancja), form=argumenty[4], dose=argumenty[5], content=argumenty[6], category=Category.A1, price=argumenty[9].replace(",", "."))
+                pfu = 0
+                if argumenty[4] != strtab and argumenty[4] != strkapt and argumenty[4] != strtabp and argumenty[4] != strkap:
+                    pfu = -2
+                elif '+' in argumenty[6]:
+                    pfu = -1
+                else:
+                    try:
+                        pfu = float(argumenty[9].replace(",", ".")[:-1]) / float(argumenty[6].split()[0])
+                    except:
+                        print(argumenty)
+                        raise Exception
+                lek = Drug(name=argumenty[3], EAN=argumenty[2], substance=Substance.objects.get(name=substancja), form=argumenty[4], dose=argumenty[5], content=argumenty[6], category=Category.A1, price=argumenty[9].replace(",", "."), priceForUnit = pfu)
                 lek.save()
                 for wskazanie in argumenty[7].replace('\"','').split(";"):
                     jakie = re.sub("<+[0-9]>", "", wskazanie).strip().casefold()
@@ -93,7 +109,18 @@ def importbazyleki():
             argumenty = line.split("\t")
             if len(argumenty) == 10:
                 substancja = argumenty[1].strip().casefold()
-                lek = Drug(name=argumenty[3], EAN=argumenty[2], substance=Substance.objects.get(name=substancja), form=argumenty[4], dose=argumenty[5], content=argumenty[6], category=Category.B, price=argumenty[9].replace(",", "."))
+                pfu = 0
+                if argumenty[4] != strtab and argumenty[4] != strkapt and argumenty[4] != strtabp and argumenty[4] != strkap:
+                    pfu = -2
+                elif '+' in argumenty[6]:
+                    pfu = -1
+                else:
+                    try:
+                        pfu = float(argumenty[9].replace(",", ".")) / float(argumenty[6].split()[0])
+                    except:
+                        print(argumenty)
+                        raise Exception
+                lek = Drug(name=argumenty[3], EAN=argumenty[2], substance=Substance.objects.get(name=substancja), form=argumenty[4], dose=argumenty[5], content=argumenty[6], category=Category.B, price=argumenty[9].replace(",", "."), priceForUnit = pfu)
                 lek.save()
                 for wskazanie in argumenty[7].replace('\"','').split(";"):
                     jakie = re.sub("<+[0-9]>", "", wskazanie).strip().casefold()
@@ -104,7 +131,18 @@ def importbazyleki():
             argumenty = line.split("\t")
             if len(argumenty) == 10:
                 substancja = argumenty[1].strip().casefold()
-                lek = Drug(name=argumenty[3], EAN=argumenty[2], substance=Substance.objects.get(name=substancja), form=argumenty[4], dose=argumenty[5], content=argumenty[6], category=Category.C, price=argumenty[9].replace(",", "."))
+                pfu = 0
+                if argumenty[4] != strtab and argumenty[4] != strkapt and argumenty[4] != strtabp and argumenty[4] != strkap:
+                    pfu = -2
+                elif '+' in argumenty[6]:
+                    pfu = -1
+                else:
+                    try:
+                        pfu = float(argumenty[9].replace(",", ".")) / float(argumenty[6].split()[0])
+                    except:
+                        print(argumenty)
+                        raise Exception
+                lek = Drug(name=argumenty[3], EAN=argumenty[2], substance=Substance.objects.get(name=substancja), form=argumenty[4], dose=argumenty[5], content=argumenty[6], category=Category.C, price=argumenty[9].replace(",", "."), priceForUnit = pfu)
                 lek.save()
                 for wskazanie in argumenty[7].replace('\"','').split(";"):
                     jakie = re.sub("<+[0-9]>", "", wskazanie).strip().casefold()

@@ -9,6 +9,7 @@
     </head>
     <body>
         <div class="indicators">
+            <a href="{% url 'random'%}">Losuj następny</a><br>
             Lista dostępnych wskazań
 
             <ul>
@@ -31,6 +32,7 @@
                     <th>Zawartość opakowania</th>
                     <th>EAN</th>
                     <th>Cena</th>
+                    <th>Cena za jednostkę leku ({{pfustatus}})</th>
                     {% if indicators.0.no_ind == False%}
                         <th>Wskazania refundacyjne</th>
                     {%endif%}
@@ -44,6 +46,11 @@
                         <td>{{drug.content}}</td>
                         <td>{{drug.EAN}}</td>
                         <td>{{drug.price}} zł</td>
+                        {%if pfustatus == 0%}
+                        <td>{{drug.priceForUnit|floatformat:2}} zł</td>
+                        {%else%}
+                        <td>-</td>
+                        {%endif%}
                         {% if indicators.0.no_ind == False %}
                             <td>
                             {%if drug.indications.all.0.no_ind == True%}

@@ -347,8 +347,8 @@ LP	Substancja	EAN	Nazwa	Postać	Dawka	Zawartość	Wskazania	Odpłatność	Dopła
 346	Peginterferonum alfa-2a	05902768001013	Pegasys	roztwór do wstrzykiwań	90 µg/0,5 ml	1 amp.-strz.po 0,5 ml (+igła)	dostępne w ramach programu lekowego	bezpłatny	0
 347	Peginterferonum beta-1a	00646520442274	Plegridy	roztwór do wstrzykiwań	125 μg	2 amp.-strz.po 0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
 348	Peginterferonum beta-1a	00646520442113	Plegridy	roztwór do wstrzykiwań	125 μg	2 wstrz.po 0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
-349	Peginterferonum beta-1a	00646520441970	Plegridy	roztwór do wstrzykiwań	"63 μg; 94 μg"	2 amp.-strz.po 0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
-350	Peginterferonum beta-1a	00646520437201	Plegridy	roztwór do wstrzykiwań	"63 μg; 94 μg"	2 wstrz.po 0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+349	Peginterferonum beta-1a	00646520441970	Plegridy	roztwór do wstrzykiwań	63 μg; 94 μg	2 amp.-strz.po 0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
+350	Peginterferonum beta-1a	00646520437201	Plegridy	roztwór do wstrzykiwań	63 μg; 94 μg	2 wstrz.po 0,5 ml	dostępne w ramach programu lekowego	bezpłatny	0
 351	Pegvisomant	05909990006281	Somavert	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	10 mg	30 amp.-strzyk.	dostępne w ramach programu lekowego	bezpłatny	0
 352	Pegvisomant	05909990006298	Somavert	proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	15 mg	30 amp.-strzyk.	dostępne w ramach programu lekowego	bezpłatny	0
 353	Pembrolizumabum	05901549325126	Keytruda	koncentrat do sporządzania roztworu do infuzji	25 mg/ml	1 fiol. 4 ml	dostępne w ramach programu lekowego	bezpłatny	0
@@ -384,7 +384,7 @@ LP	Substancja	EAN	Nazwa	Postać	Dawka	Zawartość	Wskazania	Odpłatność	Dopła
 383	Ruxolitinibum	05909991053789	Jakavi	tabletki	15 mg	56 szt.	dostępne w ramach programu lekowego	bezpłatny	0
 384	Ruxolitinibum	05909991053833	Jakavi	tabletki	20 mg	56 szt.	dostępne w ramach programu lekowego	bezpłatny	0
 385	Ruxolitinibum	05909991053758	Jakavi	tabletki	5 mg	56 szt.	dostępne w ramach programu lekowego	bezpłatny	0
-386	Sekukinumab	05909991203832	Cosentyx	roztwór do wstrzykiwań	150 mg/ml	"2 amp.-strz.; 2 wstrz."	dostępne w ramach programu lekowego	bezpłatny	0
+386	Sekukinumab	05909991203832	Cosentyx	roztwór do wstrzykiwań	150 mg/ml	2 amp.-strz.; 2 wstrz.	dostępne w ramach programu lekowego	bezpłatny	0
 387	Selexipagum	07640111932796	Uptravi	tabletki powlekane	1000 μg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
 388	Selexipagum	07640111932802	Uptravi	tabletki powlekane	1200 μg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0
 389	Selexipagum	07640111932819	Uptravi	tabletki powlekane	1400 μg	60 szt.	dostępne w ramach programu lekowego	bezpłatny	0

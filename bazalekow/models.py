@@ -33,6 +33,7 @@ class Drug(models.Model):
     category = models.IntegerField(choices=Category.choices)            # w którym arkuszu jest ten lek
     indications = models.ManyToManyField(Indication)
     price = models.FloatField()
+    priceForUnit = models.FloatField()
 
 
     class Meta:

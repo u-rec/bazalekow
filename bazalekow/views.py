@@ -24,7 +24,12 @@ def sresult(request, ean, page):
         indicators = indicators | dr.indications.all().exclude(name=wszystko)
     drug = drug[0]
     drugs = Drug.objects.filter(substance=drug.substance).filter(dose=drug.dose).filter(form=drug.form)
-    print(drugs)
+    pfustatus = 0
+    if len(Drug.objects.filter(substance=drug.substance).filter(dose=drug.dose).filter(form=drug.form).filter(priceForUnit=-1)) > 0:
+        pfustatus = -1
+    if len(Drug.objects.filter(substance=drug.substance).filter(dose=drug.dose).filter(form=drug.form).filter(priceForUnit=-2)) > 0:
+        pfustatus = -2
+    # print(drugs)
     if len(indicators) == 0:
         indicators = [Indication(name="", no_ind=True)]
     # if indicators[0].no_ind == True:
@@ -48,10 +53,11 @@ def sresult(request, ean, page):
         drugs = drugs[(page * 30):]
     else:
         return redirect('result', ean=ean, page=((len(drugs) - 1) // 30))
+    
     if len(drugs) > 30:
         drugs = drugs[:30]
 
-    return render(request, 'bazalekow/results.html', {'drugs': drugs, 'indicators': indicators, 'prevbutton': prevbutton, 'nextbutton': nextbutton, 'tean': ean, 'page': page})
+    return render(request, 'bazalekow/results.html', {'drugs': drugs, 'indicators': indicators, 'prevbutton': prevbutton, 'nextbutton': nextbutton, 'tean': ean, 'page': page, 'pfustatus': pfustatus})
 
 def example(request):
     createExample()
@@ -78,6 +84,11 @@ def sresultind(request, ean, page, indic):
     if indicat.name == wszystko or indicat.no_ind == True:
         return redirect('result', ean=ean, page=page)
     drugs = Drug.objects.filter(substance=drug.substance).filter(dose=drug.dose).filter(form=drug.form).filter(indications=indicat)
+    pfustatus = 0
+    if len(Drug.objects.filter(substance=drug.substance).filter(dose=drug.dose).filter(form=drug.form).filter(indications=indicat).filter(priceForUnit=-1)) > 0:
+        pfustatus = -1
+    if len(Drug.objects.filter(substance=drug.substance).filter(dose=drug.dose).filter(form=drug.form).filter(indications=indicat).filter(priceForUnit=-2)) > 0:
+        pfustatus = -2
     
     nextbutton = 0
     prevbutton = 0
@@ -104,5 +115,10 @@ def sresultind(request, ean, page, indic):
         return redirect('result', ean=ean, page=((len(drugs) - 1) // 30))
     if len(drugs) > 30:
         drugs = drugs[:30]
-    return render(request, 'bazalekow/results.html', {'drugs': drugs, 'indicators': indicators, 'prevbutton': prevbutton, 'nextbutton': nextbutton, 'tean': ean, 'page': page})
+    return render(request, 'bazalekow/results.html', {'drugs': drugs, 'indicators': indicators, 'prevbutton': prevbutton, 'nextbutton': nextbutton, 'tean': ean, 'page': page, 'pfustatus': pfustatus})
 
+def rand(request):
+    import random
+    random_idx = random.randint(0, Drug.objects.count() - 1)
+    randomEan = Drug.objects.all()[random_idx].EAN
+    return redirect("result", ean=randomEan, page=0)
